@@ -1,9 +1,11 @@
 ---
 title: "First article"
 categories:
-  - blog, article
+  - blog
+  - article
 tags:
-  - blog, article
+  - blog
+  - article
 toc: true
 toc_label: "Table of Contents"
 ---

@@ -3,7 +3,10 @@ title: "Panna cotta"
 categories:
   - recette
 tags:
-  - panna cotta, dessert, recette, crème
+  - panna cotta
+  - dessert
+  - recette
+  - crème
 toc: true
 toc_label: "Table of Contents"
 ---
