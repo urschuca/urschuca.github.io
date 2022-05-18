@@ -38,7 +38,7 @@ plugins:
 
 author:
   name   : "Urschuca"
-  avatar : "/assets/images/tree.jpg"
+  avatar : "/assets/images/tree.jpeg"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
