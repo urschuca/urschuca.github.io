@@ -11,12 +11,14 @@ toc_label: "Table of Contents"
 
 # Panna Cotta
 
-Ingrédients (6 portions):
+## Ingrédients (6 portions):
 
 -  50cl de crème
 -  50gr de sucre
 -  3 feuilles de gélatine
 -  gousse de vanille (ou extrait)
+
+## Instructions
 
 1.   3 feuille de gélatine dans eau froide (6gr) crème + sucre dans casserolle à chauffer
 
