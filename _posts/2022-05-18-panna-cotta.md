@@ -14,7 +14,7 @@ toc_label: "Table of Contents"
 
 # Panna Cotta
 
-## Ingrédients (6 portions):
+## Ingrédients (6 portions)
 
 -  50cl de crème
 -  50gr de sucre
