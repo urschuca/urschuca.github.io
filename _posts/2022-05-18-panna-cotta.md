@@ -23,7 +23,9 @@ toc_label: "Table of Contents"
 
 ## Instructions
 
-1.   3 feuille de gélatine dans eau froide (6gr) crème + sucre dans casserolle à chauffer
+1.    Mettre 3 feuille de gélatine (6gr) dans de l'eau froide 
+
+1.    Mettre la crème, le sucre et la vanille dans casserole à chauffer
 
 2.    quand crème frémit on retire du feu et on incorpore la gélatine
 
