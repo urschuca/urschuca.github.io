@@ -39,6 +39,8 @@ plugins:
 author:
   name   : "Urschuca"
   avatar : "/assets/images/tree.jpeg"
+  bio    : "Marmot free until 2023"
+  location: "Somewhere Back In Time"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
