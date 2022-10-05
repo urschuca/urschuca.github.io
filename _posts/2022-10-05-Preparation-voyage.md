@@ -1,5 +1,5 @@
 ---
-title: "Velomobile : de la découverte au voyage"
+title: "Velomobile de la découverte au voyage"
 categories:
   - velomobile
   - blog
@@ -54,9 +54,11 @@ Par chance je m'entraine à courrir pour un trail de 36Km depuis plsuieurs mois,
 
 # Le matériel
 
+<script src="https://lighterpack.com/e/uzd1t2"></script><div id="uzd1t2"></div>
+
 # Le voyage aller
 
 J'ai hésité à prendre l'avion Genève - Nantes. C'est plus rapide et beaucoup moins cher. Mais au dernier  moment je me suis rendu compte que je voulais emporter beaucoup d'objet interdit en cabine.vu le poids de l'antivol il peut être considéré comme object contondant.
 
-Ce sera finalement le train.
+Ce sera finalement le train. Le gite du jeudi au vendredi est réservé.
 
