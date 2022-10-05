@@ -2,6 +2,7 @@
 title: "Velomobile : de la découverte au voyage"
 categories:
   - velomobile
+  - blog
 tags:
   - velomobile
   - voyages
