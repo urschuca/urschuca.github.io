@@ -6,7 +6,7 @@ tags:
   - recette
   - plat
   - sauce
-  - assaisonement,
+  - assaisonement
 toc: true
 toc_label: "Table of Contents"
 ---
