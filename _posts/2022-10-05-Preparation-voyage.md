@@ -54,7 +54,7 @@ Par chance je m'entraine à courrir pour un trail de 36Km depuis plsuieurs mois,
 
 # Le matériel
 
-<script src="https://lighterpack.com/e/uzd1t2"></script><div id="uzd1t2"></div>
+[La liste du matériel.](https://lighterpack.com/r/uzd1t2) 
 
 # Le voyage aller
 
