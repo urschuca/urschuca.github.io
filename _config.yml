@@ -13,7 +13,7 @@ repository: "urschuca/urschuca.github.io"
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris
 
 include:
   - _pages
@@ -43,12 +43,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/urschuca"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: "https://www.strava.com/athletes/97618288"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/urschuca"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: "https://www.strava.com/athletes/97618288"
 
 defaults:
   # _posts
@@ -63,6 +69,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      read_time: true
   # _pages
   - scope:
       path: "_pages"
