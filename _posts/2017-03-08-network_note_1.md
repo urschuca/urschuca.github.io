@@ -10,8 +10,6 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-# Networks notes
-
 __netstat -lnpt | grep LISTEN | grep :port__
 
 __nc -u @ip port__ (sans le -u pour tester en TCP)
