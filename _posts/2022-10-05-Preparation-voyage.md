@@ -36,10 +36,12 @@ Ca risque de me couter aussi cher mais c'est beaucoup plus marrant, enfin je l'e
 
 # Le plan
 
+![Une petite balade](/assets/trip.png)
+
 Le plan est simple :
 
-* __Jeudi 13/10__ : Je fais le voyage La Cure - Chasnais en transport en commun, ca risque de me prendre la journée.
-* __Vendredi 14/10__ : Je récupère le vélomobil à l'ouverture du magasin (9h), une fois les derniers réglages effectués et la remorque chargé je part entre 9h30 et 10h00, je pédale toute la journée.
+* __Jeudi 13/10__ : Je fais le voyage La Cure - Chasnais en transport en commun.
+* __Vendredi 14/10__ : Je récupère le WAW à l'ouverture du magasin (9h), une fois les derniers réglages effectués et la remorque chargé je part entre 9h30 et 10h00, je pédale toute la journée.
 * __Samedi 15/10__ : Je pédale toute la journée
 * __Dimanche 16/10__ :  Je pédale toute la journée et j'arrive chez moi (la encore on espère)
 
@@ -52,6 +54,8 @@ Je ne réserve aucune nuit d'hôtel ou de camping. J'ai trop d'inconnu a ce stad
 
 Par chance je m'entraine à courrir pour un trail de 36Km depuis plsuieurs mois, j'ai donc un certain coffre. La course est le 9 octobre quelques jours avant mon périple, en espérant avoir récupéré le jour J. J'ai réduit le volume de course à pied les dernières semaines pour intégrer du vélo afin de préparer un peu les jambes.
 
+
+
 # Le matériel
 
 [La liste du matériel.](https://lighterpack.com/r/uzd1t2) 
@@ -60,5 +64,5 @@ Par chance je m'entraine à courrir pour un trail de 36Km depuis plsuieurs mois,
 
 J'ai hésité à prendre l'avion Genève - Nantes. C'est plus rapide et beaucoup moins cher. Mais au dernier  moment je me suis rendu compte que je voulais emporter beaucoup d'objet interdit en cabine.vu le poids de l'antivol il peut être considéré comme object contondant.
 
-Ce sera finalement le train. Le gite du jeudi au vendredi est réservé.
+Ce sera finalement le train. Je part de la Cure a 6h16 et j'arrive a Lucon a 16h58. Le gite du jeudi au vendredi est réservé. Le reste est à vivre.
 
