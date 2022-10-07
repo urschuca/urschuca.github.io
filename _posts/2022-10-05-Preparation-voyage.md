@@ -36,7 +36,7 @@ Ca risque de me couter aussi cher mais c'est beaucoup plus marrant, enfin je l'e
 
 # Le plan
 
-![Une petite balade](/assets/trip.png)
+![Une petite balade](/assets/images/trip.png)
 
 Le plan est simple :
 
