@@ -14,25 +14,27 @@ toc_label: "Table of Contents"
 
 # La découverte
 
-Il me semble que c'était pendant à la période de Noël, une période souvent chargé en voyage en voiture, la première fois que j'ai croisé la route de ces engins. Nous étions sur une petite route tortueuse sous une pluie démentielle, lorsque nous avons croisés un drôle de véhicule blanc. Magie des smartphones, j'identifiais après quelques minutes de recherche cette ORNI : un vélomobile.
+Il me semble que c'était pendant à la période de Noël, une période souvent chargé en voyage en voiture, la première fois que j'ai croisé la route de ces engins. Nous étions sur une petite route tortueuse sous une pluie démentielle, lorsque nous avons croisés un drôle de véhicule blanc. Magie des smartphones, j'identifiais après quelques minutes de recherche cet ORNI : un vélomobile.
 
-Je trouve le concept intéressant, hélas inexploitable dans mon cas pour du vélotaf. En effet à cette époque je fais Annecy - Genève 5 fois par semaines, la plupart du temps en bus et quelquefois en moto. C'est un axe trés dense, la distance impose l'autoroute, bref je garde ca dans un coin de ma tête.
+Je trouve le concept intéressant, hélas inexploitable dans mon cas pour du vélotaf. En effet, à cette époque je fais Annecy - Genève cinq fois par semaine, la plupart du temps en bus et quelquefois à moto. C'est un axe dense, la distance impose l'autoroute, bref je garde ca dans un coin de ma tête.
 
-On avance de quelques années et ma situation change. J'ai changé de boite et j'habite maintenant a 25km de mon travail. La route du travail est moins chargé et bien que en montagne (plus de 1000m d'altitude) relativement plate (100m de d+ en tout). Le vélomobile revient dans mes esprits, mais je suis encore entre deux logements et cela complique ma décision. Je me renseigne sur les tarifs et sur les revendeurs. J'en trouve deux, un en France en vendée (700km de chez moi...) et un en Suisse (à 100km de chez moi). Je contacte plusieurs fois le Suisse pour faire une location test, aucune nouvelle.
+On avance de quelques années et ma situation change. J'ai changé de boite et j'habite maintenant a 25km de mon travail. La route du travail est moins chargé et bien qu'en montagne (plus de 1000m d'altitude) relativement plate (100m de d+ en tout). Le vélomobile revient dans mes esprits, mais je suis encore entre deux logements et cela complique ma décision. Je me renseigne sur les tarifs et sur les revendeurs. J'en trouve deux, un en France en Vendée (700km de chez moi...) et un en Suisse (à 100km de chez moi). Je contacte plusieurs fois le suisse pour faire une location test, aucune nouvelle.
 
 On avance de quelques mois et un ami nous présente son vélomobile fraichement acquis : un quatrovello. C'est l'occasion de tester et de se dire que c'est possible.
 
 # L'idée fait son chemin
 
-Je recontacte le vendeur Suisse qui ne me donne toujours pas de nouvelles. Je contacte le vendeur Francais pour voir les options de livraisons : soit je viens le chercher, soit ils me le livrent pour 1€ du km. Habitant a 700km (au plus court) de chez eux, je me dis que je vais trouver un autre moyen. Je cherche un peu des alternatives et perds encore quelques mois ...
+Je recontacte le vendeur suisse qui ne me donne toujours pas de nouvelles. Je contacte le vendeur français pour voir les options de livraisons : soit je viens le chercher, soit ils me le livrent pour 1€ du km. Habitant a 700km (au plus court) de chez eux, je me dis que je vais trouver un autre moyen. Je cherche des alternatives et perds encore quelques mois ...
 
-Finalement je décide de sauter le pas, je regarde les différents vélomobile et les options. Mon choix se porte sur un Katanga neuf, 100% musculaire et simple (une couleur, pas de carbone) et confortable (tout suspendu) dans une optique de trajet domicile - travail. Je contacte alors le revendeur Francais pour établir un devis et la tout bascule.
+Finalement, je décide de sauter le pas, je regarde les différents vélomobiles et les options. Mon choix se porte sur un Katanga neuf, 100% musculaire, simple (une couleur, pas de carbone) et confortable (tout suspendu) dans une optique de trajet domicile - travail. Je contacte alors le revendeur français pour établir un devis et la tout bascule.
 
 # L'achat
 
-Ils ont un modèle d'occasion tout équipé (carbone, assistance électrique, remorque), ils me le proposent au prix de celui que je voulais neuf. Je saute sur l'occasion et le réserve. N'ayant pas de barre de toit et de toute facon pas envie de faire 1400km en voiture pour ramener un engin "écologique", je me dit que le plus simple est de le ramener en pédalant.
+Ils ont un modèle d'occasion tout équipé (carbone, assistance électrique, remorque), ils me le proposent au prix de celui que je voulais neuf. Je saute sur l'occasion et le réserve. N'ayant pas de barre de toit et de toute façon pas envie de faire 1400km en voiture pour ramener un engin "écologique", je décide de le ramener en pédalant.
 
-Ca risque de me couter aussi cher mais c'est beaucoup plus marrant, enfin je l'espère.
+Ca risque de me couter aussi cher mais c'est beaucoup plus marrant.
+
+Enfin je l'espère.
 
 # Le plan
 
@@ -64,7 +66,7 @@ J'ai du me familiariser avec le matériel vélo, c'est un monde a part entière.
 
 # Le voyage aller
 
-J'ai hésité à prendre l'avion Genève - Nantes. C'est plus rapide et beaucoup moins cher. Mais au dernier  moment je me suis rendu compte que je voulais emporter beaucoup d'objet interdit en cabine.vu le poids de l'antivol il peut être considéré comme object contondant.
+J'ai hésité à prendre l'avion Genève - Nantes. C'est plus rapide et beaucoup moins cher. Mais au dernier moment je me suis rendu compte que je voulais emporter beaucoup d'objet interdit en cabine. Vu le poids de l'antivol il peut être considéré comme object contondant.
 
 Ce sera finalement le train. Je part de la Cure a 6h16 et j'arrive a Lucon a 16h58. Le gite du jeudi au vendredi est réservé. Le reste est à vivre.
 
