@@ -54,9 +54,11 @@ Je ne réserve aucune nuit d'hôtel ou de camping. J'ai trop d'inconnu a ce stad
 
 Par chance je m'entraine à courrir pour un trail de 36Km depuis plsuieurs mois, j'ai donc un certain coffre. La course est le 9 octobre quelques jours avant mon périple, en espérant avoir récupéré le jour J. J'ai réduit le volume de course à pied les dernières semaines pour intégrer du vélo afin de préparer un peu les jambes.
 
-
-
 # Le matériel
+
+J'ai du me familiariser avec le matériel vélo, c'est un monde a part entière. J'ai acheté :
+* un casque vélo de course neuf
+* des chaussures de vélo avec des cales (normes SPD)
 
 [La liste du matériel.](https://lighterpack.com/r/uzd1t2) 
 
