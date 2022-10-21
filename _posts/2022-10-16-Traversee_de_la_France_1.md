@@ -14,8 +14,11 @@ toc_label: "Table of Contents"
 
 # Avant le voyage, ajustement matériel
 La météo a changé au dernier moment, ça annonce de la pluie tout le long du voyage. Par contre le dimanche est annoncé beau pour le moment. Ça change mon programme sur un éventuel bivouac. Il va falloir trouver des hôtels sur la route ! On prend quand même le matos en cas d’urgence.
+
 J'ai été très optimiste sur le sac à dos de 40L on va devoir partir sur le 55L.
+
 Je pèse le sac : 16kilos. On est bien.
+
 # Jeudi 13/10 : le voyage aller
 
 Il ne sait pas ce qui l'attend :
@@ -28,7 +31,9 @@ Luçon :
 
 Je n'ai eu du retard que sur le train pour Luçon, la SNCF c'est autre chose que les trains allemands ! Après deux semaines de vacances en train en Allemagne avec Magali, notre taux de train sans problèmes avoisinait les 20%. A ressortir à tous ceux qui vous parlent de la rigueur allemande. 
 
-J'ai fini les 4 derniers km à pied sous la pluie ce qui épouvantera mon hôte « vous auriez dû m’appeler, je serais venu vous chercher ». Mais c’est que je veux tout faire par mes propres moyens ma petite dame ! Ce principe volera en éclats pendant le voyage mais à ce stade je suis encore un doux rêveur. 
+J'ai fini les 4 derniers km à pied sous la pluie ce qui épouvantera mon hôte « vous auriez dû m’appeler, je serais venu vous chercher ». Mais c’est que je veux tout faire par mes propres moyens ma petite dame ! 
+
+Ce principe volera en éclats pendant le voyage mais à ce stade je suis encore un doux rêveur. 
 
 # Vendredi 14/10 Jour 1 : départ et découvertes
 
@@ -36,9 +41,9 @@ J'ai fini les 4 derniers km à pied sous la pluie ce qui épouvantera mon hôte 
 
 ![Petit-dej](/assets/images/tf/petit-dej1.jpg)
 
-Petit déj 7h30, la dame m’a pris en pitié suite à la veille et m’a déposé à JV-Fenioux en voiture ! Dommage je me voyais déjà enregistré le segment Strava avec pour titre « Marche d’approche ». Ça s m’aurais fait marrer.
+Petit déj 7h30, la dame m’a pris en pitié suite à la veille et m’a déposé à JV-Fenioux en voiture ! Dommage je me voyais déjà enregistré le segment Strava avec pour titre « Marche d’approche ». Je trouvais ca marrant.
 
-Je rentre dans le magasin à 9h00 pile, le magasin est ouvert mais la lumière n’est même pas allumée. On m’accueille avec un café et on me montre enfin mon vélomobile, que je n’avais jamais vu avant (même pas en photo). JV-Fenioux sont des passionnés, ils sont super sympas mais les nouvelles technologies (genre le mail), c’est encore un peu compliqué.
+Je rentre dans le magasin à 9h00 pile, c'est ouvert mais la lumière n’est même pas allumée. On m’accueille avec un café et on me montre enfin mon vélomobile. Je ne l’avais jamais vu avant même pas en photo ! JV-Fenioux sont des passionnés, ils sont super sympas mais les nouvelles technologies (genre le mail), c’est encore un peu compliqué...
 
 Prêt pour les réglages :
 ![la_decouverte](/assets/images/tf/reglages.jpg)
@@ -84,16 +89,18 @@ Le GPS me fait ses premières blagues, ça m’apprendra à ne pas préparer plu
 
 Je me rends compte que mon estimation de 30km/h de moyenne est optimiste. Il va falloir pédaler plus longtemps !
 
-Bouchon niort, problèmes GPS
+Je continue sur Niort et me retrouve dans les bouchons. Je prends conscience du manque de mobilité du vélomobile. Pour le gymkhana urbain, un vélo droit est bien plus pratique. Je suis sur une piste cyclable, mais entre les voitures qui empiètent sur ma voie et la largur du vélomobile, je suis souvent à l'arrêt. Par contre j'apprécie grandement la gachette de l'assistance électrique. Elle permet de libérer toute la puissance du moteur instantanément. Trés pratique pour redémarrer aprés un arrêt en côte ou pour s'insérer plus facilement dans le flot de voitures d'un rond point.
+
+Je fais une pause vers 17h00. Il pleut tellement que je décide de ne pas sortir du WAW pour cette pause: 
 
 ![ambiance2](/assets/images/tf/ambiance2.jpg)
 
-Je fais une pause vers 17h00. Il pleut tellement que je décide de ne pas sortir du WAW pour cette pause. Je trouve un hôtel au environ de Poitiers qui as l’avantage d’être sur ma route (à peine 200m de détour) et qui est suffisamment excentré pour que je ne craigne pas de me faire abimer le vélomobil. Je réserve en ligne, l’hôtel est à 40km, ça me parait facile.
+Je trouve un hôtel aux environs de Poitiers qui as l’avantage d’être sur ma route (à peine 200m de détour). e plus il est suffisamment excentré pour que je ne craigne pas de me faire abimer le vélomobile. Je réserve en ligne, l’hôtel est à 40km, ça me parait facile.
 
 Mais évidemment ce sera tout sauf facile. Au début je roule bien, je tiens un bon rythme, je suis confiant sur le fait d’arriver avant la nuit. Je n’ai pas envie de rouler de nuit, ça me parait dangereux. J’enchaine les petites routes et c’est sympa. Puis la route rétrécit, rétrécit, et se transforme en chemin de terre. Je vois alors deux options :
 
-1)	Sortir du vélomobile, faire le demi-tour en le portant (la route est trop étroite et ça braque pas du tout ces engins), revenir sur mes pas et faire un détour : j’ai déjà fait 3km sur cette petite route goudronnée, ce n’est pas une mince affaire, ça me rallonge de beaucoup
-2)	Continuer sur cette route de terre. Je regarde sur les vues satellite pour essayer d’évaluer la distance sur terre. J’évalue à 1km7 de chemin de terre.
+1. Sortir du vélomobile, faire demi-tour en le portant (la route est trés étroite), revenir sur mes pas et faire un détour : j’ai déjà fait 3km sur cette petite route goudronnée, ce n’est pas une mince affaire, ça me rallonge de beaucoup
+2. Continuer sur cette route de terre. Je regarde sur les vues satellite pour essayer d’évaluer la distance sur terre. J’évalue à 1km7 de chemin de terre.
 
 Je choisis la deuxième solution, bien entendu je me suis complétement planté dans mon estimation. Ce sera 6km de chemin de terre. La vue est splendide, soleil couchant dans les champs, avec une impression d’être seul au monde, je me tâte même à faire une photo et il ne pleut plus. Mais je n’avance pas, c’est très dur, ça glisse, je dois freiner dans les descentes, ce qui fait que je n’ai aucun répit. Je rejoins finalement la route, j’ai lâché beaucoup de force dans ce passage et beaucoup de temps, mes espoirs d’être à l’hôtel avant la nuit sont anéantis.
 
@@ -105,12 +112,15 @@ J’arrive enfin à l’hôtel et je manque de me casser la gueule en sortant du
 
 Je récupère enfin ma chambre, ma priorité est de brancher toutes mes batteries, puis d’étaler mes affaires. Celles qui étaient dans le vélomobile sont un peu humide voir mouillées car il y a un peu d’eau dans l’engin à force de pluie. Je mange un peu, car j’ai toujours ces maux de ventres et je rassure/renseigne les différentes personnes suivant mon périple. Je passe ensuite près d’une heure et demie au téléphone avec Magali pour préparer plus en détails mon trajet du lendemain. Afin d’éviter à tout prix les chemins de terre, dans lesquels j’ai lâché beaucoup de temps et d’énergie.
 
-Je décide de partir le plus tôt possible demain matin afin d’éviter de rouler de nuit. Bien entendu je n’y arriverais pas.
-
 ![chambre1](/assets/images/tf/chambre1.jpg)
+
 ![chambre2](/assets/images/tf/chambre2.jpg)
 
+Je décide de partir le plus tôt possible demain matin afin d’éviter de rouler de nuit. Bien entendu je n’y arriverais pas.
+
 ## Statistiques
+
+Chasnais -> Luçon -> Fontenay-le-Comte -> Niort -> Poitiers.
 
 | Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
 | --- | ----------- |----- | ----- | -----
@@ -119,7 +129,7 @@ Je décide de partir le plus tôt possible demain matin afin d’éviter de roul
 | Vendredi 3/3 | [lien](https://www.strava.com/activities/7962903291) | 3h46 | 78.63km | 604m | 20.8km/h
 | Total | N/A | 6h27 | 144.77km | 932m | 22.45km/h 
 
-Sans surprise ce sera ma meilleur moyenne sur l'ensemble du voyage. On vois bien sur la courbe de fréquence cardiaque que j'ai vraiment forcé en fin de journée pour ralier l'hôtel.
+Sans surprise ce sera ma meilleure moyenne sur l'ensemble du voyage. On vois bien sur la courbe de fréquence cardiaque que j'ai vraiment forcé en fin de journée pour ralier l'hôtel.
 
 Ma fréquence cardiaque au cours de la journée :
 ![coeur1](/assets/images/tf/coeur1.jpg)
