@@ -23,7 +23,8 @@ Il ne sait pas ce qui l'attend :
 
 La cure -> Nyon -> Genève -> Paris -> métro -> Nantes -> Luçon -> à pied.
 
-![Ambiance](assets/images/tf/lucon.jpg)
+Luçon :
+![Ambiance](/assets/images/tf/lucon.jpg)
 
 Je n'ai eu du retard que sur le train pour Luçon, la SNCF c'est autre chose que les trains allemands ! Après deux semaines de vacances en train en Allemagne avec Magali, notre taux de train sans problèmes avoisinait les 20%. A ressortir à tous ceux qui vous parlent de la rigueur allemande. 
 
@@ -39,6 +40,7 @@ Petit déj 7h30, la dame m’a pris en pitié suite à la veille et m’a dépos
 
 Je rentre dans le magasin à 9h00 pile, le magasin est ouvert mais la lumière n’est même pas allumée. On m’accueille avec un café et on me montre enfin mon vélomobile, que je n’avais jamais vu avant (même pas en photo). JV-Fenioux sont des passionnés, ils sont super sympas mais les nouvelles technologies (genre le mail), c’est encore un peu compliqué.
 
+Prêt pour les réglages :
 ![la_decouverte](/assets/images/tf/reglages.jpg)
 
 Je découvre mon Katanga Waw avec toutes ses options donc certaines que je découvre :
@@ -112,12 +114,12 @@ Je décide de partir le plus tôt possible demain matin afin d’éviter de roul
 
 | Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
 | --- | ----------- |----- | ----- | -----
-| Vendredi 1/3 | [lien](https://www.strava.com/activities/7961277872) | 38.03km | 1h42 | 168m | 22.3km/h
-| Vendredi 2/3 | [lien](https://www.strava.com/activities/7961680552) | 28.11km | 0h59 | 160m | 28.5km/h
-| Vendredi 3/3 | [lien](https://www.strava.com/activities/7962903291) | 78.63km | 3h46 | 604m | 20.8km/h
+| Vendredi 1/3 | [lien](https://www.strava.com/activities/7961277872) | 1h42 | 38.03km | 168m | 22.3km/h
+| Vendredi 2/3 | [lien](https://www.strava.com/activities/7961680552) | 0h59 | 28.11km | 160m | 28.5km/h
+| Vendredi 3/3 | [lien](https://www.strava.com/activities/7962903291) | 3h46 | 78.63km | 604m | 20.8km/h
 | Total | N/A | 6h27 | 144.77km | 932m | 22.45km/h 
 
 Sans surprise ce sera ma meilleur moyenne sur l'ensemble du voyage. On vois bien sur la courbe de fréquence cardiaque que j'ai vraiment forcé en fin de journée pour ralier l'hôtel.
 
-Ma fréquence cardiaque au cour de la journée :
+Ma fréquence cardiaque au cours de la journée :
 ![coeur1](/assets/images/tf/coeur1.jpg)
