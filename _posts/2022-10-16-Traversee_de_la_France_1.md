@@ -31,7 +31,7 @@ La cure -> Nyon -> Genève -> Paris -> métro -> Nantes -> Luçon -> à pied.
 Luçon :
 ![Ambiance](/assets/images/tf/lucon.jpg)
 
-Je n’ai eu du retard que sur le train pour Luçon, la SNCF c’est autre chose que les trains allemands ! Après deux semaines de vacances en train en Allemagne avec Magali, notre taux de train sans problèmes avoisinait les 20 %. À ressortir à tous ceux qui vous parlent de la rigueur allemande. 
+Je n’ai eu du retard que sur le train pour Luçon, la SNCF c’est autre chose que les trains allemands ! Après deux semaines de vacances en train en Allemagne avec Magali, notre taux de train sans problèmes avoisinait les 10 %. À ressortir à tous ceux qui vous parlent de la rigueur allemande. 
 
 J’ai fini les 4 derniers km à pied sous la pluie ce qui épouvantera mon hôte « vous auriez dû m’appeler, je serais venu vous chercher ». Mais c’est que je veux tout faire par mes propres moyens ma petite dame !
 
