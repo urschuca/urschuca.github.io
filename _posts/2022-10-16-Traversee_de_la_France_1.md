@@ -69,7 +69,7 @@ Au final on devra modifier :
 -	Ajout de 2 maillons à la chaîne
 -	Déplacement des cales sur mes chaussures de vélo
 
-Je suis bon pour presque 150 € de frais supplémentaires pour la mousse de selle et le pédalier. On m’avait annoncé 30 min de réglages, je comptais partir vers 10 h. Je partirais finalement peu après midi.
+Je suis bon pour presque 150 € de frais supplémentaires pour la mousse de selle et le pédalier. On m’avait annoncé 30 min de réglages, je comptais partir vers 10 h. Je partirai finalement peu après midi.
 
 ![pret](/assets/images/tf/pret.jpg)
 
@@ -87,7 +87,7 @@ Je m’arrête à un supermarché pour faire quelques courses et manger. Je test
 
 ## Premières galères
 
-Le GPS me fait ses premières blagues, ça m’apprendra à ne pas préparer plus en amont mon trajet. Je me retrouve sur un chemin desservant des éoliennes, chemin goudronné qui se transforme petit à petit en chemin de pierre puis de terre. Je n’ai pas fait 30 bornes que je fais déjà du VTT avec le vélomobile. Je rejoins finalement une carrière desservit par une route goudronnée et j’arriverais à me sortir de là.
+Le GPS me fait ses premières blagues, ça m’apprendra à ne pas préparer plus en amont mon trajet. Je me retrouve sur un chemin desservant des éoliennes, chemin goudronné qui se transforme petit à petit en chemin de pierre puis de terre. Je n’ai pas fait 30 bornes que je fais déjà du VTT avec le vélomobile. Je rejoins finalement une carrière desservit par une route goudronnée et j’arriverai à me sortir de là.
 
 Je me rends compte que mon estimation de 30 km/h de moyenne est optimiste. Il va falloir pédaler plus longtemps !
 
@@ -97,7 +97,7 @@ Je fais une pause vers 17h00. Il pleut tellement que je décide de ne pas sortir
 
 ![ambiance2](/assets/images/tf/ambiance2.jpg)
 
-Je trouve un hôtel aux environs de Poitiers qui as l’avantage d’être sur ma route (à peine 200 m de détour). De plus il est suffisamment excentré pour que je ne craigne pas de me faire abîmer le vélomobile. Je réserve en ligne, l’hôtel est à 40 km, ça me parait facile.
+Je trouve un hôtel aux environs de Poitiers qui a l’avantage d’être sur ma route (à peine 200 m de détour). De plus il est suffisamment excentré pour que je ne craigne pas de me faire abîmer le vélomobile. Je réserve en ligne, l’hôtel est à 40 km, ça me parait facile.
 
 Mais évidemment ce sera tout sauf facile. Au début je roule bien, je tiens un bon rythme, je suis confiant sur le fait d’arriver avant la nuit. Je n’ai pas envie de rouler de nuit, ça me parait dangereux. J’enchaîne les petites routes et c’est sympa. Puis la route rétrécit, rétrécit, et se transforme en chemin de terre. Je vois alors deux options :
 
@@ -124,7 +124,7 @@ Je récupère enfin ma chambre, ma priorité est de brancher toutes mes batterie
 
 ![chambre3](/assets/images/tf/chambre2.jpg)
 
-Je décide de partir le plus tôt possible demain matin afin d’éviter de rouler de nuit. Bien entendu je n’y arriverais pas.
+Je décide de partir le plus tôt possible demain matin afin d’éviter de rouler de nuit. Bien entendu je n’y arriverai pas.
 
 ## Statistiques
 
