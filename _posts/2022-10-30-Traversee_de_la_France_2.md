@@ -73,13 +73,16 @@ Je tente ma chance sur une autre application d'hébergement de vacances. J’arr
 J’ai un toit, mes batteries rechargent, mes affaires sèchent. Ce n’est finalement pas si mal.
 
 ## Statistiques
+
+Fontenay le Comte -> Poitiers -> Chauvigny -> Saint Germain -> Le Blanc -> St Gaultier -> Argenton sur Creuse -> La Châtre -> Chateaumeillant
+
 | Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
-| --- | ----------- |----- | ----- | -----
-| Samedi 1/5| [lien](https://www.strava.com/activities/7964920204) | 33.13km | 1h21 | 207m | 24.4km/h
+| --- | ----------- |----- | ----- | ----- | -----
+| Samedi 1/5 | [lien](https://www.strava.com/activities/7964920204) | 33.13km | 1h21 | 207m | 24.4km/h
 | Samedi 2/5 | [lien](https://www.strava.com/activities/7965569057) | 37.98km | 1h34 | 327m | 24.2km/h
 | Samedi 3/5 | [lien](https://www.strava.com/activities/7966464852) | 18.44km | 0h58 | 39m | 19km/h
 | Samedi 4/5 | [lien](https://www.strava.com/activities/7968118867) | 70.26km | 3h48 | 711m | 18.5km/h
-| Samedi 5/5| oubli | 10.8km | 0h44 | 2m | 14.8 km/h 
+| Samedi 5/5 | oubli | 10.8km | 0h44 | 2m | 14.8 km/h 
 | Total | N/A | 8h25 | 170.61km | 1286m | 20.2km/h 
 
 La moyenne commence à baisser, je réalise quand même une bonne journée. Je n'ai plus ces douleurs aux épaules, je prends petit à petit mes marques dans cet engin.
@@ -122,8 +125,11 @@ Je paye mes douleurs au pied récurrentes de la journée, je ne peux pas le pose
 ![chalet](/assets/images/tf/jour3/chambre.jpg)
 
 ## Statistiques
+
+Chateaumeillant -> Vallons-en-Sully -> Cosnes d'Allier -> Moulins -> Digoin -> Paray-le-Monial -> Charolles
+
 | Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
-| --- | ----------- |----- | ----- | -----
+| --- | ----------- |----- | ----- | ----- | -----
 | Dimanche 1/2 | [lien](https://www.strava.com/activities/7973690746) | 7h49 | 154.22km | 1182m | 19.7km/h
 | Dimanche 2/2 | Bug strava | 1h27 | 27km | 114m | 18.62km/h 
 | Total | N/A | 9h16 | 181.22km | 1296m | 19.57km/h
