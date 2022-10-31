@@ -13,6 +13,7 @@ toc_label: "Table of Contents"
 ---
 
 # Samedi 15/10 Jour 2 :
+
 ## Les curieux
 Je me lève reposé à 7h00 et à mon grand étonnement sans aucune courbature ! C’est quelque chose qui perdura tout le long du périple et j'en suis le premier étonné. Après avoir vérifié par la fenêtre que mon bolide est toujours là. Je me dirige vers le petit déjeuner, qui est royal ! Il y a de tout, malheureusement j'ai la nausée et je ne mange pas grand-chose : 
 
@@ -95,7 +96,7 @@ Le beau temps est enfin là :
 
 ![chalet](/assets/images/tf/jour3/chalet.jpg)
 
-Je mange quelques cookies achetés la veille et je pars tôt. Il est clair que je ne finirais pas aujourd’hui, le but est d’avancer un maximum afin que la journée de demain soit réalisable. Je commence ä un bon rythme, mais je souffre toujours de maux de ventres. Il va falloir quand même trouver un moyen de s’alimenter.
+Je mange quelques cookies achetés la veille et je pars tôt. Il est clair que je ne finirais pas aujourd’hui, le but est d’avancer un maximum afin que la journée de demain soit réalisable. Je commence à un bon rythme, mais je souffre toujours de maux de ventres. Il va falloir quand même trouver un moyen de s’alimenter.
 
 Je m’arrête faire quelques courses dans un supermarché de l’Allier ouvert le dimanche matin. Tout m’écœure dans le magasin, ça devient compliqué. Mais sur les bons conseils de Magali je prends du coca et ça marche ! J’en suis le premier étonné, ce n’est donc pas un mythe.
 
@@ -107,7 +108,7 @@ Je lui réponds :
 
 « Vous parlez de mes jambes » (je suis en short à ce moment-là). 
 
-En voyant l’incompréhension dans ces yeux je lui ai expliqué la supercherie. Je décide de prévenir mon manager et mes collègues que je ne travaillerais pas demain, mais plutôt mardi, il était au courant que cela risquait d’arriver. 
+En voyant l’incompréhension dans ses yeux je lui ai expliqué la supercherie. Je décide de prévenir mon manager et mes collègues que je ne travaillerais pas demain, mais plutôt mardi, il était au courant que cela risquait d’arriver. 
 
 Je tiens un bon rythme, mais je dois régulièrement m’arrêter à cause de douleur au pied. Ça part en une dizaine de minutes et ça revient au bout de 1 h 1 h 30 de pédalage. 
 
