@@ -1,4 +1,4 @@
----
+--
 title: "Velomobile: traversée de la France : partie 2"
 categories:
   - velomobile
@@ -96,11 +96,7 @@ Le beau temps est enfin là :
 
 ![chalet](/assets/images/tf/jour3/chalet.jpg)
 
-<<<<<<< HEAD
 Je mange quelques cookies achetés la veille et je pars tôt. Il est clair que je ne finirai pas aujourd’hui, le but est d’avancer un maximum afin que la journée de demain soit réalisable. Je commence à un bon rythme, mais je souffre toujours de maux de ventre. Il va falloir quand même trouver un moyen de s’alimenter.
-=======
-Je mange quelques cookies achetés la veille et je pars tôt. Il est clair que je ne finirais pas aujourd’hui, le but est d’avancer un maximum afin que la journée de demain soit réalisable. Je commence à un bon rythme, mais je souffre toujours de maux de ventres. Il va falloir quand même trouver un moyen de s’alimenter.
->>>>>>> 98c0c807911baa78401473aaf31185cd86e43daa
 
 Je m’arrête faire quelques courses dans un supermarché de l’Allier ouvert le dimanche matin. Tout m’écœure dans le magasin, ça devient compliqué. Mais sur les bons conseils de Magali je prends du coca et ça marche ! J’en suis le premier étonné, ce n’est donc pas un mythe.
 
@@ -112,11 +108,7 @@ Je lui réponds :
 
 « Vous parlez de mes jambes » (je suis en short à ce moment-là). 
 
-<<<<<<< HEAD
 En voyant l’incompréhension dans ces yeux je lui ai expliqué la supercherie. Je décide de prévenir mon manager et mes collègues que je ne travaillerai pas demain, mais plutôt mardi, ils étaient au courant que cela risquait d’arriver. 
-=======
-En voyant l’incompréhension dans ses yeux je lui ai expliqué la supercherie. Je décide de prévenir mon manager et mes collègues que je ne travaillerais pas demain, mais plutôt mardi, il était au courant que cela risquait d’arriver. 
->>>>>>> 98c0c807911baa78401473aaf31185cd86e43daa
 
 Je tiens un bon rythme, mais je dois régulièrement m’arrêter à cause de douleur au pied. Ça part en une dizaine de minutes et ça revient au bout de 1 h 1 h 30 de pédalage. 
 
