@@ -87,7 +87,7 @@ Magali arrive et on constate rapidement que ça ne va pas le faire, c’est impo
 
 ![bricolage2](/assets/images/tf/jour4/bricolage2.jpg)
 
-On met tout ce que l’on peut dans la voiture :les affaires, la remorque, tout le superflu. Je remonte les différentes pièces et je repars direction St-Claude à la force des jambes.
+On met tout ce que l’on peut dans la voiture : les affaires, la remorque, tout le superflu. Je remonte les différentes pièces et je repars direction St-Claude à la force des jambes.
 
 Et quelles jambes ! Délesté de près de 30 kilos, reposé et avec de la batterie je suis en super forme. J’atteins enfin les 30 km/h de moyenne (malgré la pente ascendante), je redécouvre totalement mon WAW. J’ai des performances de fou, ça augure du bon pour le trajet domicile-travail.
 
