@@ -148,7 +148,7 @@ Je range le vélo dans le garage, on mange, on se douche et on dort.
 
 ## Statistiques
 | Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
-| --- | ----------- |----- | ----- | ----- | ---
+| --- | --- | --- | --- | --- | ---
 | Lundi 1/6 | [lien](https://www.strava.com/activities/7976460996) | 3h20 | 59.29km | 812m | 17.7km/h
 | Lundi 2/6 | [lien](https://www.strava.com/activities/7978081831) | 3h26 | 57.36km | 659m | 16,7km/h
 | Lundi 3/6 | [lien](https://www.strava.com/activities/7978971587) | 0h35 | 18.65km | 145m | 31.5km/h
