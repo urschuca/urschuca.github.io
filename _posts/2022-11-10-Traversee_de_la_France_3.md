@@ -147,6 +147,9 @@ Un homme heureux :
 Je range le vélo dans le garage, on mange, on se douche et on dort.
 
 ## Statistiques
+
+Charolles -> Macon -> Bourg-en-Bresse -> Corveissiat -> St Claude -> Lamoura -> La Cure
+
 Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
 --- | --- | --- | --- | --- | ---
 Lundi 1/6 | [lien](https://www.strava.com/activities/7976460996) | 3h20 | 59.29km | 812m | 17.7km/h
