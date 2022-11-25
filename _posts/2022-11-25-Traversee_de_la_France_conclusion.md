@@ -12,7 +12,7 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-# Conclusions
+# Conclusion
 
 Y aller en train et ramener le vélo à la force des jambes. Pourquoi prendre la voiture pour ramener un engin sensé la remplacer ? 
 
@@ -44,11 +44,11 @@ Mais c’était pas si mal. Beaucoup d’émotions, beaucoup d’images, de sens
 
 Alors quitte à se surestimer je recommencerais sûrement ce genre d’aventure.
 
-## Le coût de l'aventure
+# Le coût de l'aventure
 
 Je m'étais dit que ca me couterait aussi cher de le ramener que de me le faire livrer. Alors le verdict ?
 
-### Le coût estimé en voiture
+## Le coût estimé en voiture
 
 662km entre chez moi et JV Fenioux, avec le trajet économique (pas de péage) de Via Michelin soit 1324km au total.
 
@@ -66,13 +66,13 @@ __TOTAL : 152,26 €__
 
 Ça me paraît vraiment peu, les voitures neuves sont données entre 0,3 et 0,5€ du kilomètre pour 20000 kilomètre par an, en prenant en compte entretien, assurance, décote et carburant. Ce qui donnerait entre 400 et 660€.
 
-### Le coût estimé si livraison
+## Le coût estimé si livraison
 
 1€ du kilomètre, simple basique
 
 __TOTAL : 700€__
 
-### En vélomobil
+## En vélomobil
 
 Poste de dépense | coût
 Train La cure – Genève | 24
@@ -84,7 +84,7 @@ __TOTAL : 613,28€__
 
 C’était donc rentable ! Merci les maux de ventres, le budget alimentation sauve la mise.
 
-## Mon avis sur le vélomobile
+# Mon avis sur le vélomobile
 
 Mais quel engin ! C’est vraiment incroyable. Certes je suis « un peu » sportif, mais je suis incapable de faire un tel voyage en vélo classique. Je n’ai eu aucune courbature en près de 35 heures de pédalage. Les performances sont vraiment impressionnantes. J’étais certes convaincu avant le départ mais ça fait quand même bizarre.
 
@@ -106,7 +106,7 @@ J’ai maintenant un peu de recul pour les trajets domicile – travail et je su
 
 De plus j’ai l’assistance électrique, si je suis fatigué je n’ai qu’à me laisser porter. Je peux avec elle conserver une bonne moyenne sans avoir besoin d’une douche à l’arrivée. C’est un gros plus. Pour l’instant j’ai pu l’utiliser chaque semaine, la neige arrive et on va voir ce que ça va donner.
 
-## Statistiques final
+# Statistiques final
 
 Les oublis et bug de strava ont été estimés.
 
