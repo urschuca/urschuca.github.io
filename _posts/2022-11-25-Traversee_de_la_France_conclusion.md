@@ -14,13 +14,19 @@ toc_label: "Table of Contents"
 
 # Conclusions
 
-Y aller en train et ramener le vélo à la force des jambes. Pourquoi prendre la voiture pour ramener un engin sensé la remplacer ? 700Km en 3 jours, 30 km/h de moyenne, 8 h par jour, sois 240 km par jour. Ça me fait même de la marge ! C’était le plan, ça semblait facile. Ça m’avait semblé une bonne idée.
+Y aller en train et ramener le vélo à la force des jambes. Pourquoi prendre la voiture pour ramener un engin sensé la remplacer ? 
+
+700Km en 3 jours, 30 km/h de moyenne, 8 h par jour, sois 240 km par jour. Ça me fait même de la marge !
+
+C’était le plan, ça semblait facile. Ça m’avait semblé une bonne idée.
 
 ![travail](/assets/images/tf/conclusion/vuedensemble.jpg)
 
 Alors bonne idée ou pas ?
 
-Si on m’avait demandé à l’arrivée, ou pendant certaines parties du voyage, j’aurais certainement dit que non. Clairement c’était la pire idée que j’ai eue de l’année. Et pourtant j’en ai eu des idées discutables cette année : me mettre au ski de fond et me blesser, m’inscrire sur un 36 km en course à pied, traverser un massif montagneux de nuit, dans la neige et avec le Covid, faire un enfant. C’est pas comme si j’avais pas essayé.
+Si on m’avait demandé à l’arrivée, ou pendant certaines parties du voyage, j’aurais certainement dit que non. Clairement c’était la pire idée que j’ai eue de l’année. 
+
+Et pourtant j’en ai eu des idées discutables cette année : me mettre au ski de fond et me blesser, m’inscrire sur un 36 km en course à pied, traverser un massif montagneux de nuit, dans la neige et avec le Covid, faire un enfant... C’est pas comme si j’avais pas essayé.
 
 Mais maintenant avec le recul ?
 
@@ -56,15 +62,15 @@ Poste de dépense | coût kilométrique | Kilomètres | sous-Total
 Entretien | 0,02 | 1324 | 26,48
 Essence | 0,095 | 1324 | 125,78
 
-TOTAL : 152,26 €
+__TOTAL : 152,26 €__
 
 Ça me paraît vraiment peu, les voitures neuves sont données entre 0,3 et 0,5€ du kilomètre pour 20000 kilomètre par an, en prenant en compte entretien, assurance, décote et carburant. Ce qui donnerait entre 400 et 660€.
 
 ### Le coût estimé si livraison
 
-1€ du kilomètre
+1€ du kilomètre, simple basique
 
-TOTAL : 700€
+__TOTAL : 700€__
 
 ### En vélomobil
 
@@ -74,7 +80,7 @@ Train Genève - Lucon| 217,75
 Logement | 286,69
 Courses | 58.07
 
-TOTAL : 613,28€
+__TOTAL : 613,28€__
 
 C’était donc rentable ! Merci les maux de ventres, le budget alimentation sauve la mise.
 
@@ -104,11 +110,15 @@ De plus j’ai l’assistance électrique, si je suis fatigué je n’ai qu’à
 
 Les oublis et bug de strava ont été estimés.
 
-Vitesse max : 85.9km/h
-Vitesse moyenne : 20.1km/h
-Kilométrage : 673.4km
-Temps : 33h31
-Dénivelé : 5370m
+Vitesse max : __85.9km/h__
+
+Vitesse moyenne : __20.1km/h__
+
+Kilométrage : __673.4km__
+
+Temps : __33h31__
+
+Dénivelé : __5370m__
 
 # Remerciements
 
@@ -116,7 +126,7 @@ Merci, à Magali pour m’avoir soutenu tout le long du voyage, pour m’avoir t
 
 Quentin pour les infos sur le vélomobil et pour avoir relancé chez moi la passion de ces engins, pour l’enthousiasme sur mon aventure.
 
-Mon père pour les conseils sur les voyages à vélo.
+Mon père pour les conseils sur les voyages à vélo. Pour son flegme.
 
 Ma mère pour ne pas s’être inquiétée.
 
