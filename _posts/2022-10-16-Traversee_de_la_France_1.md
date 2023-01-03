@@ -128,7 +128,7 @@ Je décide de partir le plus tôt possible demain matin afin d’éviter de roul
 
 ## Statistiques
 
-Chasnais -> Luçon -> Fontenay-le-Comte -> Niort -> Poitiers.
+Chasnais -> Luçon -> Fontenay-le-Comte -> Niort -> Fontaine-le-Comte
 
 | Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
 | --- | ----------- |----- | ----- | -----

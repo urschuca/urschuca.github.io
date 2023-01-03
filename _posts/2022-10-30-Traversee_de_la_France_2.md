@@ -75,7 +75,7 @@ J’ai un toit, mes batteries rechargent, mes affaires sèchent. Ce n’est fina
 
 ## Statistiques
 
-Fontenay le Comte -> Poitiers -> Chauvigny -> Saint Germain -> Le Blanc -> St Gaultier -> Argenton sur Creuse -> La Châtre -> Chateaumeillant
+Fontaine-le-Comte -> Poitiers -> Chauvigny -> Saint Germain -> Le Blanc -> St Gaultier -> Argenton sur Creuse -> La Châtre -> Chateaumeillant
 
 | Partie | Strava | Temps | Kilomètres | Dénivelé | Moyenne
 | --- | ----------- |----- | ----- | ----- | -----
