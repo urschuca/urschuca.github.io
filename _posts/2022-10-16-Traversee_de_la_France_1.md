@@ -43,18 +43,18 @@ Ce principe volera en éclats pendant le voyage mais à ce stade je suis encore 
 
 ![Petit-dej](/assets/images/tf/petit-dej1.jpg)
 
-Petit déj 7h30, la dame m’a pris en pitié suite à la veille et m’a déposé à JV-Fenioux en voiture ! Dommage je me voyais déjà enregistré le segment Strava avec pour titre « Marche d’approche ». Je trouvais ça marrant.
+Petit déj 7h30, la dame m’a pris en pitié suite à la veille et m’a déposé à JV-Fenioux en voiture ! Dommage je me voyais déjà enregistrer le segment Strava avec pour titre « Marche d’approche ». Je trouvais ça marrant.
 
 Je rentre dans le magasin à 9h00 pile, c'est ouvert mais la lumière n’est même pas allumée. On m’accueille avec un café et on me montre enfin mon vélomobile. Je ne l’avais jamais vu avant même pas en photo ! JV-Fenioux sont des passionnés, ils sont super sympas mais les nouvelles technologies (genre le mail), c’est encore un peu compliqué…
 
 Prêt pour les réglages :
 ![la_decouverte](/assets/images/tf/reglages.jpg)
 
-Je découvre mon Katanga WAW avec toutes ses options donc certaines que je découvre :
+Je découvre mon Katanga WAW avec toutes ses options dont certaines que je découvre :
 -	Petite pompe à main avec manomètre
 -	Pompe à main haute pression pour gonfler l’amortisseur arrière à air
--	Porte gourde avec gourde
--	Porte téléphone
+-	Porte-gourde avec gourde
+-	Porte-téléphone
 
 Joël m’explique que l’ancien propriétaire, un papi de 82 ans, voulait le top et l’a eu. Mais au bout d’un an il a commencé à galérer à rentrer dans l’habitacle et est donc passé sur un trike plus facile d’accès (en gros c’est la même chose mais sans le carénage). 
 
@@ -87,7 +87,7 @@ Je m’arrête à un supermarché pour faire quelques courses et manger. Je test
 
 ## Premières galères
 
-Le GPS me fait ses premières blagues, ça m’apprendra à ne pas préparer plus en amont mon trajet. Je me retrouve sur un chemin desservant des éoliennes, chemin goudronné qui se transforme petit à petit en chemin de pierre puis de terre. Je n’ai pas fait 30 bornes que je fais déjà du VTT avec le vélomobile. Je rejoins finalement une carrière desservit par une route goudronnée et j’arriverai à me sortir de là.
+Le GPS me fait ses premières blagues, ça m’apprendra à ne pas préparer plus en amont mon trajet. Je me retrouve sur un chemin desservant des éoliennes, chemin goudronné qui se transforme petit à petit en chemin de pierre puis de terre. Je n’ai pas fait 30 bornes que je fais déjà du VTT avec le vélomobile. Je rejoins finalement une carrière desservie par une route goudronnée et j’arriverai à me sortir de là.
 
 Je me rends compte que mon estimation de 30 km/h de moyenne est optimiste. Il va falloir pédaler plus longtemps !
 
@@ -104,11 +104,11 @@ Mais évidemment ce sera tout sauf facile. Au début je roule bien, je tiens un 
 1. Sortir du vélomobile, faire demi-tour en le portant (la route est très étroite), revenir sur mes pas et faire un détour : j’ai déjà fait 3 km sur cette petite route goudronnée, ce n’est pas une mince affaire, ça me rallonge de beaucoup
 2. Continuer sur cette route de terre. Je regarde sur les vues satellites pour essayer d’évaluer la distance sur terre. J’évalue à 1km7 de chemin de terre.
 
-Je choisis la deuxième solution, bien entendu je me suis complètement planté dans mon estimation. Ce sera 6 km de chemin de terre. La vue est splendide, soleil couchant dans les champs, avec une impression d’être seul au monde, je me tâte même à faire une photo et il ne pleut plus. Mais je n’avance pas, c’est très dur, ça glisse, je dois freiner dans les descentes, ce qui fait que je n’ai aucun répit. Je rejoins finalement la route, j’ai lâché beaucoup de force dans ce passage et beaucoup de temps. Mes espoirs d’être à l’hôtel avant la nuit sont anéantis.
+Je choisis la deuxième solution, bien entendu je me suis complètement planté dans mon estimation. Ce sera 6 km de chemin de terre. La vue est splendide, soleil couchant dans les champs, avec une impression d’être seul au monde, je me tâte même à faire une photo et il ne pleut plus. Mais je n’avance pas, c’est très dur, ça glisse, je dois freiner dans les descentes, ce qui fait que je n’ai aucun répit. Je rejoins finalement la route, j’ai lâché beaucoup de forces dans ce passage et beaucoup de temps. Mes espoirs d’être à l’hôtel avant la nuit sont anéantis.
 
-Il fait nuit. J’ai un éclairage décent sur le WAW et Joël m’a affirmé que ça se fait de conduire de nuit. Seulement je suis exténué au bout de cette première journée. La pluie reprend, je dois gérer les embardés du vélomobile à cause du vent latéral. Je n’ai plus de batterie donc plus d’assistance électrique (la batterie des phares est une autre batterie et de ce côté-là j’ai encore beaucoup de marge avant de manquer), je suis sur une route assez passante, je me fais régulièrement doubler et je me traîne. Je me traîne vraiment, les petites bosses de la nationale m’achèvent j’arrive en haut à 5 ou 6 km/h, je ne pédale pas dans les descentes pour récupérer un peu. Ma moyenne s’effondre, ces derniers kilomètres sont interminables, très stressant et usant mentalement. Je dois vraiment piocher en moi pour trouver les ressources de finir.
+Il fait nuit. J’ai un éclairage décent sur le WAW et Joël m’a affirmé que ça se fait de conduire de nuit. Seulement je suis exténué au bout de cette première journée. La pluie reprend, je dois gérer les embardées du vélomobile à cause du vent latéral. Je n’ai plus de batterie donc plus d’assistance électrique (la batterie des phares est une autre batterie et de ce côté-là j’ai encore beaucoup de marge avant de manquer), je suis sur une route assez passante, je me fais régulièrement doubler et je me traîne. Je me traîne vraiment, les petites bosses de la nationale m’achèvent j’arrive en haut à 5 ou 6 km/h, je ne pédale pas dans les descentes pour récupérer un peu. Ma moyenne s’effondre, ces derniers kilomètres sont interminables, très stressants et usants mentalement. Je dois vraiment piocher en moi pour trouver les ressources de finir.
 
-J’arrive enfin à l’hôtel et je manque de me casser la gueule en sortant du vélomobile tellement l’effort a été violent. J’ai vraiment très mal aux épaules, comme je l’avais pressenti en début d’après midi. Je mets bien 5 minutes à récupérer assis sur le trottoir sous la pluie. Je mets ensuite 15 minutes à récupérer toutes mes affaires et garer/sécuriser le vélomobile pour la nuit. Je pense en avoir fini quand une dame promenant son chien me dit « Do you speak english ? Because I have so many questions ». S’ensuit 5 minutes de questions sur le vélomobile en anglais. Puis son mari arrive et j’ai encore 5 minutes de questions supplémentaires. Ils me trouvent bien courageux et me souhaitent bon courage pour la suite.
+J’arrive enfin à l’hôtel et je manque de me casser la gueule en sortant du vélomobile tellement l’effort a été violent. J’ai vraiment très mal aux épaules, comme je l’avais préssenti en début d’après-midi. Je mets bien 5 minutes à récupérer assis sur le trottoir sous la pluie. Je mets ensuite 15 minutes à récupérer toutes mes affaires et garer/sécuriser le vélomobile pour la nuit. Je pense en avoir fini quand une dame promenant son chien me dit « Do you speak english ? Because I have so many questions ». S’ensuit 5 minutes de questions sur le vélomobile en anglais. Puis son mari arrive et j’ai encore 5 minutes de questions supplémentaires. Ils me trouvent bien courageux et me souhaitent bon courage pour la suite.
 
 ![garer1](/assets/images/tf/garer1.jpg)
 

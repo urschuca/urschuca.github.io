@@ -14,11 +14,11 @@ toc_label: "Table of Contents"
 
 # Conclusion
 
-Y aller en train et ramener le vélo à la force des jambes. Pourquoi prendre la voiture pour ramener un engin sensé la remplacer ? 
+Acheter un vélomobile, c'était pour moi une évidence. L'acheter c'est bien, l'avoir c'est mieux. Alors, on le ramène comment ?
 
-700Km en 3 jours, 30 km/h de moyenne, 8 h par jour, sois 240 km par jour. Ça me fait même de la marge !
+Y aller en train et ramener le vélo à la force des jambes. C'était le plan ca semblait facile. D'un point de vue purement mathématique ca l'était : 3 jours, à 30 km/h de moyenne, à raison de 8 h par jour, ca fait 240 km par jour. Donc 720km en 3 jours, pour 700km à faire, ca me fait même de la marge !
 
-C’était le plan, ça semblait facile. Ça m’avait semblé une bonne idée.
+Ça m’avait semblé une bonne idée. En effet, pourquoi prendre la voiture pour ramener un engin sensé la remplacer ? 
 
 ![travail](/assets/images/tf/conclusion/vuedensemble.jpg)
 
@@ -36,11 +36,11 @@ Oui c’était dur, et j’ai galéré comme jamais à arriver à destination ch
 
 Oui il y a eu des imprévus, des erreurs de GPS de mon fait ou non, des routes barrées, des travaux.
 
-Oui c’était long. 700 km c’est pas rien. La voiture a rendu ces distances accessibles mais c’est loin d’être anodin. Quand le voyage se voit sur une carte de France c’est pas négligeable, alors quand on le voit sur une du monde.
+Oui c’était long. 700 km c’est pas rien. La voiture a rendu ces distances accessibles mais c’est loin d’être anodin. Quand le voyage se voit sur une carte de France c’est pas négligeable, alors quand on le voit sur une carte du monde.
 
 Et oui je suis nul en estimation. En tout cas en vélomobil car c’est plutôt un de mes points forts en course à pied. Tellement nul que Magali m’a appris « surestimer » en allemand : « überschätzen ».
 
-Mais c’était pas si mal. Beaucoup d’émotions, beaucoup d’images, de sensation. Des souvenirs et pour longtemps. Quoi qu’il se passe ça restera là (enfin Alzheimer reste possible), ça fait partie de moi. Les souvenirs ne sont-ils pas les seules choses que l’on possède vraiment ?
+__Mais__ c’était pas si mal. Beaucoup d’émotions, beaucoup d’images, de sensations. Des souvenirs et pour longtemps ! Quoi qu’il se passe ça restera là (enfin Alzheimer reste possible), ça fait partie de moi. Les souvenirs ne sont-ils pas les seules choses que l’on possède vraiment ?
 
 Alors quitte à se surestimer je recommencerais sûrement ce genre d’aventure.
 
@@ -52,7 +52,7 @@ Je m'étais dit que ca me couterait aussi cher de le ramener que de me le faire 
 
 662km entre chez moi et JV Fenioux, avec le trajet économique (pas de péage) de Via Michelin soit 1324km au total.
 
-La 308 fait du 5L / 100km à 1,9€ le litre : 0,095€ du kilomètre.
+La 308 fait du 5,5L / 100km à 1,9€ le litre : 0,1045€ du kilomètre.
 
 L’entretien est estimé à 0,02€ du kilomètre pour ce type de voiture.
 
@@ -60,9 +60,9 @@ Ne sont pas pris en compte : assurance, décote.
 
 Poste de dépense | coût kilométrique | Kilomètres | sous-Total
 Entretien | 0,02 | 1324 | 26,48
-Essence | 0,095 | 1324 | 125,78
+Essence | 0,1045 | 1324 | 138,36
 
-__TOTAL : 152,26 €__
+__TOTAL : 164,84 €__
 
 Ça me paraît vraiment peu, les voitures neuves sont données entre 0,3 et 0,5€ du kilomètre pour 20000 kilomètre par an, en prenant en compte entretien, assurance, décote et carburant. Ce qui donnerait entre 400 et 660€.
 
@@ -82,7 +82,9 @@ Courses | 58.07
 
 __TOTAL : 613,28€__
 
-C’était donc rentable ! Merci les maux de ventres, le budget alimentation sauve la mise.
+Moins de 700€, donc moins cher que la livraison. C’était donc rentable ! 
+
+Merci les maux de ventres, le budget alimentation sauve la mise (ca fait pas cher du plein).
 
 # Mon avis sur le vélomobile
 
@@ -104,7 +106,7 @@ La protection contre les éléments est très efficace. Aucun problème pour rou
 
 J’ai maintenant un peu de recul pour les trajets domicile – travail et je suis pleinement satisfait. Je mets entre 25 et 35 minutes (ça monte plus le soir) pour réaliser les 21 kms me séparant du travail. En voiture je mets 30 minutes généralement. La différence est vraiment minime.
 
-De plus j’ai l’assistance électrique, si je suis fatigué je n’ai qu’à me laisser porter. Je peux avec elle conserver une bonne moyenne sans avoir besoin d’une douche à l’arrivée. C’est un gros plus. Pour l’instant j’ai pu l’utiliser chaque semaine, la neige arrive et on va voir ce que ça va donner.
+De plus j’ai l’assistance électrique, si je suis fatigué je n’ai qu’à me laisser porter. Je peux avec elle conserver une bonne moyenne sans avoir besoin d’une douche à l’arrivée. C’est un gros plus. Pour l’instant j’ai pu l’utiliser chaque semaine, la neige arrive et on va voir ce que ça va donner. Le froid n'est pas un si gros problème, j'ai roulé par -8°C sans problèmes. Il faut certes s'habiller plus chaudement mais on se réchauffe trés vite.
 
 # Statistiques final
 
