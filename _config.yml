@@ -7,7 +7,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme : "minimal-mistakes-jekyll"
 repository: "urschuca/urschuca.github.io"
 # Outputting
 permalink: /:categories/:title/
