@@ -4,7 +4,6 @@ categories:
   - recette
 tags:
   - recette
-  - 
 toc: true
 toc_label: "Table of Contents"
 ---
