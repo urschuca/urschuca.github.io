@@ -7,7 +7,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
 repository: "urschuca/urschuca.github.io"
 # Outputting
 permalink: /:categories/:title/
