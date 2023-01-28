@@ -15,10 +15,10 @@ toc_label: "Table of Contents"
 ## Ingrédients (4 portions)
 
 - 2 escalopes de poulet
-- 500 g d' épinards
+- 500 g d'épinards
 - 400 g de dés de tomate
 - 2 oignons
-- 1 peu d' de huile d'olive
+- 1 peu d'huile d'olive
 - 1 cc de thym
 - 2 cs de purée de cacahuètes
 - 30 cl de bouillon de volaille
