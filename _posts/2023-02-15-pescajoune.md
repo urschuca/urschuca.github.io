@@ -5,12 +5,12 @@ categories:
 tags:
   - recette
   - galette
-  - pescajoun
+  - pescajoune
 toc: true
 toc_label: "Table of Contents"
 ---
 
-# Pescajoun
+# Pescajoune
 
 ## Ingrédients
 
