@@ -140,3 +140,5 @@ La moyenne continue de baisser. La douleur au pied m’inquiète un peu mais ell
 La courbe de fréquence cardiaque (ma montre à détecté une activité de vélo elliptique dans la matinée, ça m’a l’air au point) :
 
 ![coeur](/assets/images/tf/jour3/coeur.jpg)
+
+[La suite](https://urschuca.github.io/velomobile/blog/Traversee_de_la_France_3/)
