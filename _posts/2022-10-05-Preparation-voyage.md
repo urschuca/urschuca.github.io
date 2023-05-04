@@ -70,3 +70,4 @@ J'ai hésité à prendre l'avion Genève - Nantes. C'est plus rapide et beaucoup
 
 Ce sera finalement le train. Je pars de la Cure à 6h16 et j'arrive à Lucon a 16h58. Le gîte du jeudi au vendredi est réservé. Le reste est à vivre.
 
+[La suite](https://urschuca.github.io/velomobile/blog/Traversee_de_la_France_1/)

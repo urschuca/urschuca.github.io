@@ -141,3 +141,5 @@ Sans surprise ce sera ma meilleure moyenne sur l'ensemble du voyage. On voit bie
 
 Ma fréquence cardiaque au cours de la journée :
 ![coeur1](/assets/images/tf/coeur1.jpg)
+
+[La suite](https://urschuca.github.io/velomobile/blog/Traversee_de_la_France_2/)

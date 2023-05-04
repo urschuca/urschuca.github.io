@@ -165,3 +165,5 @@ Charolles -> La Chapelle du Mont de France -> Sainte Cécile -> Mâcon -> Pollia
 Pas tant de bornes que ça pour cette dernière journée, mais le dénivelé et les aléas m’ont bien compliqué la tâche.
 
 On distingue très clairement sur la courbe le moment où j’ai poussé dans le vélo. C’était plus facile pour les jambes mais plus dur pour le cœur.
+
+[La suite](https://urschuca.github.io/velomobile/blog/Traversee_de_la_France_conclusion/)
