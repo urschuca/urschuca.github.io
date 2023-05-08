@@ -2,12 +2,12 @@
 title: "Chou à la flamande"
 categories:
   - recette
+tags:
+  - recette
   - chou
   - automne
   - hiver
   - accompagnement
-tags:
-  - recette
 toc: true
 toc_label: "Table of Contents"
 ---
