@@ -1,9 +1,9 @@
 ---
 title: "Openssl usefull command"
 categories:
-  - IT
+  - it
 tags:
-  - IT
+  - it
   - openssl
   - certificate
 toc: true
