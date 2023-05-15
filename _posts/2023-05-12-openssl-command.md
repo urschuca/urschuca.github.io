@@ -18,6 +18,12 @@ toc_label: "Table of Contents"
 openssl pkcs7 -print_certs -in old.p7b -out new.crt
 ```
 
+## Convert CRT to PEM
+
+```
+openssl x509 -in mycert.crt -out mycert.pem -outform PEM
+```
+
 ## Read certificate
 
 ```
