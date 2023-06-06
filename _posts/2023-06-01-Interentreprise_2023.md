@@ -54,5 +54,6 @@ Tu peut me doubler mec, aucun problème. Par contre ça sera pas gratuit. Tu veu
 
 C'est vraiment une épreuve à la con, tu est dans le dur du début à la fin. Tu finis complètement explosé. Nouveau record de fréquence cardiaque : 196 ! Mais ou m'arrêterais je !
 
-Mais bon on sais pourquoi on vient : Pour le plaisir de déboîter des mecs qui sont pas de chez nous ! Pour ces petit mano à mano tous le long du parcours. Et comme le tracé de change pas c'est facile de voir l'état de forme du moment.
+Mais bon on sais pourquoi on vient : Pour le plaisir de déboîter des mecs qui sont pas de chez nous ! Pour ces petits mano à mano tous le long du parcours. Et comme le tracé ne change pas c'est facile de voir l'état de forme du moment.
 
+Je réalise un super chrono, à voir si ce ne sera pas excessifs avec le trail de dimanche.
