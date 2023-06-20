@@ -76,7 +76,7 @@ Je complète avec de l'eau claire dans ma poche à eau et quelques verres d'eau 
 
 ## L'avant course
 
-Après un solide petit déjeuner composé de : galette de sarrasin sucré au sirop d'agave, banane, carré de chocolat noir 99%, biscuits protéiné, gateau yaourt bourgeon de sapin et eau vitaminé. J'ai pris mon [vélo](https://www.strava.com/activities/9198226292) pour rejoindre la navette aux départ des Rousses. Avec ce moyen de transport je méduse déjà des types. L'ascendant psychologique est pris !
+Après un solide petit déjeuner composé de : galette de sarrasin sucré au sirop d'agave, banane, carré de chocolat noir 99%, biscuits protéiné, gateau yaourt bourgeon de sapin et eau vitaminé. J'ai pris mon [vélo](https://www.strava.com/activities/9198226292) pour rejoindre la navette aux départ des Rousses. Avec ce moyen de transport je méduse déjà des types : l'ascendant psychologique est pris !
 
 ![velo](/assets/images/2023/transju/velo.jpg)
 
@@ -86,7 +86,7 @@ La navette nous as ensuite déposé à Morez ou j'ai pu profiter d'un café dist
 
 Et ca n'as pas loupé, les vertus du café sur mon organisme ont frappé. Ils as fallu aller aux toilettes pour se libérer. Je trépigne un peu alors qu'il n'y as qu'une seule toilette et que je suis déjà le 5eme à faire la queue. Mais ma joie est grande quand en sortant je constate que la queue est maintenant d'une quarantaine de personnes au bas mots. Sacré timing !
 
-Je glande un peu assis avant le départ et constate que l'on as de grandes chances de prendre la pluie sur le parcours vu la météo annoncé. Je sais qu'il as plu la veille, le terrain va être glissant. Il va falloir faire atention dans les descentes, particulièrement la descente atroce du col de porte. Que j'avais parcouru en grande partie en marchant l'année dernière.
+Je glande un peu assis avant le départ et constate que l'on as de grandes chances de prendre la pluie sur le parcours vu la météo annoncé. Je sais qu'il as plu la veille, le terrain va être glissant. Il va falloir faire atention dans les descentes, particulièrement la descente atroce du col de porte. Descente que j'avais parcouru en grande partie en marchant l'année dernière.
 
 ## Le départ
 
@@ -104,21 +104,72 @@ Dès que j'en ai l'occasion je mets la seconde et je remonte un max de personne,
 
 Cette première partie est inconnu pour moi, c'est des chemins que je n'ai jamais emprunté, je manque donc de repères. C'est globalement des chemins faciles. On est dans les bois, les montées ne sont pas trop raides, les plats pas trop long et les descentes (sauf une) pas trop techniques.
 
-J'arrive à bien m'hydrater, à bien manger, à maintenir le rythme : tout va pour le mieux. Je déboite des types qui courent en montée (alors que je marche). Les sensations sont excellentes
+J'arrive à bien m'hydrater, à bien manger, à maintenir le rythme : tout va pour le mieux. Je déboite des types qui courent en montée (alors que je marche). Les sensations sont excellentes. J'arrive à Prémanon avec presque 10 minutes d'avance sur ma planification.
+
+Je remplis mes flasques avec poudre plus eau plate et je commets ma première erreur : je bois deux verres d'eau gazeuse avant de repartir. Je prends de l'eau gazeuse en pensant aux minéraux présent en plus grand nombre par rapport à de l'eau plate. Je me dis que ca compensera un peu la perte du à la transpiration. Le problème c'est que le gaz me retourne le bide, ce qui fait que je vais de moins en moins m'alimenter.
+
+Mais a ce moment tout va bien, je suis en avance, je suis en forme, j'ai réalisé un ravitaillement éclair (moins de dux minutes). Il faut continuer sur cette lancé.
 
 ## Deuxiéme partie : Prémanon - Ravito des tuffes
 
+C'est une partie que je connais bien. C'est le tracé de la 25k que j'ai fait l'année dernière, ca emprunte certaine passage de [l'oxyrace](https://urschuca.github.io/blog/sport/16K_Oxyrace/), certaines pistes de ski de fond. Je sais trés bien ou je dois ralentir et ou je dois accélérer.
+
 ![chemin](/assets/images/2023/transju/chemin.jpg)
+
+Je suis partit depuis 1 ou 2 kilomètres que l'orage se mets à tomber. Il pleut fort et ca tonne ! Je me dis qu'il n'est pas impossible que les organisateurs raccourcissent la fin de course car la dernière ascension sur la Dôle et de loin le passage le plus __exposé__. Le temps se calmera et je ne reprendrais plus la pluie.
+
+Je monte en haut des tuffes à bonne allure, et je m'élance dans la descente vers les Dappes à pleine balle. C'est une piste de ski alpin verte. c'est large, c'est pas trop pentu et le terrain est bien plat. Je réaliserais toute la descente à plus de 12km/h. Je suis trés content de ma prestation sur cette partie. On arrivera au ravito des Dappes (eau uniquement) que j'avais choisis d'ignorer, je ne perds donc pas de temps et j'attaque directement la montée de la Dôle.
+
+L'ascension se passe bien. Je connais bien cette montée et je constate que même si je suis moins vif que d'habtiude j'envoie quand mème un bon rythme. Je me surprends dans l'_envers_ de la Dôle. Une descente technique que j'avais en grande partie marché l'année dernière. Une dame manque de se manger en me suivant et me dira a voix haute "J'arrête de vous suivre j'ai pas le niveau". Je commence à doubler des personnes du 25K, le moral est bon.
+
+J'arrive au col de la porte et attaque cette descente qui est __abominable__. Je me dis qu'il reste une descente, un ravito ou je devrais avoir des supportrices, une portion de plat et FI-NI-TO
+
+Je mange de moins en moins et je sens bien que je commence à manquer un peu d'énergie.
+
+Je passe cette descente du mieux que je peut et je relance tant bien que mal sur la portion plate avant le ravito des Tuffes. J'y arrive et je vois avec bonheur que Magali et Izia ont pu venir. Je fais le point d'eau, je discute un peu. Je constate que je suis toujours en avance sur mon planning de 7minutes. C'est super. Je part en disant à Magali que je serais arrivé dans 45minutes.
+
 
 ## Dernière partie : Tuffes - Les rousses
 
+Constatant ma forme et voyant ce qu'il me reste, je m'élance à vive allure en voulant arriver le plus vite possible. Je réalise toute la portion du ravito jusqu'a la route plus rapidement que l'année dernière. Ca sent la fin !
+
+Et puis alors que l'on est à 3km de la fin à vol d'oiseau. Je constate que le balisage de correspond pas à ce que j'attendais. Je comprends alors que c'est la fameuse __surprise__ dont on nous as parlés ce matin. connaissant un peu les lieux je me dis ok on va passer par cette route ca doit rallonger un peu ca le fait.
+
+300m plus loin, rebelotte. On refais un détour, je me dis OK il nous font aller à la cascade et aprés on remonte.
+
+Arrivée à la cascade, rebelotte. On refais un détour. Ca commence à sérieusement me gonfler. Je commence à avoir vraiment fain mais j'ai toujours un peu mal au ventre. en plus j'ai rehcargé mes flasques en eau et non pas en eau + poudre, je n'ai donc rien sous la dent de facilement assimilable. J'ai bien des compotes dans le sac mais elle sont difficilement accessible, il faudrais que je m'arrète pour les sortir.
+
+Je me dis c'est bon ils ne vont pas nous faire aller au pont perroud quand même. Et bah si ! On y arrivera aprés une longue portion descendante ou je ne suis vraiment pas à mon fort. Je marche, je laisse filer quelques places et j'entends même un groupe de 5/6 qui me talonne au pont.
+
+Mais aprés le pont perroud, je connais, c'est que de la montée et du plat et ca c'est quelquechose que j'affectionne ! Je relance donc la machine et ce petit groupe ne me repranderas pas.
+
+Aprés une montée longue ou on commence à bien sentir les effets de la durée de l'effort, je reconnais __enfin__ les abords du fort des Rousses. Je reprends un peu du poil de la bête, d'autant plus que je croise Marc Antoine, un collégue (il as fait le 10K, il as finit depuis longtemps), il m'encourage et courrera même une centiane de mètres avec moi.
 
 ![arrive](/assets/images/2023/transju/arrive.jpg)
 
+J'arrive finalement en 6h32. Je visais moins de 6h00 mais pour 38km et 2200m de d+. J'aurais finalement eu 42km et 2400m de d+.
+
+J'ai défoncé le ravitaillement d'arrivé : des tucs, du comté, des abricots secs, une banane, une douzaine de part de quatre quarts, de l'eau gazeuse, du coca. J'avais vraiment la dalle !
+
 # Conclusion
+
+Dieu c'était gras !
 
 ![gras](/assets/images/2023/transju/gras.jpg)
 
+Même avec ma _défaillance_ de fin de parcours, je tiens le rythme visé : 10km effort / heure. Même avec le rab. Je suis trés loin de finir dans un état lamentable comme au 36k de la Vallée de Joux ou j'avais du vraiment piocher en moi pour finir. Ca augure du bon !
+
+Point positifs :
+- j'ai tenu le rythme pendant plus de 6h
+- j'ai progressé en descente
+- aucun ongle noir
+- beaucoup moins mal au ventre que la dernière fois
+- ma planification était impeccable
+
+Poins négatifs :
+- un peu _faible_ mentalement sur la fin de course. J'ai manqué de lucidité j'aurais du m'arreter 2min pour sortir quelquechose de facile à manger pour regagner un peu de force.
+- le sac monte ses limites sur ses durées d'effort. Je manque de poche facilement accessible
+- je ne dois rien boire de gazeux pendant la course
 
 # La suite ?
 
