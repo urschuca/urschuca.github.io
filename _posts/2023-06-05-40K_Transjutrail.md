@@ -173,3 +173,11 @@ Poins négatifs :
 
 # La suite ?
 
+On va remettre un peu de vitesse cette été avec des plus courtes distances :
+- 08/08 : Company Cup  je suis inscrit sur le 10k
+- courant aout : cross de la rubatée 9k
+
+Mais aussi du long :
+- la [BTC](https://urschuca.github.io/blog/sport/BTC-2023/) fin aout, un petit raid de 50k pour 2800m de d+ mais dans un cadre non officielle.
+
+La prochaine _vrai_ course sera l'__UTMJ__ ou je m'alignerais sois sur le 70k sois sur le 105k en fonction de ma capacité à m'entrainer durant cette été.
