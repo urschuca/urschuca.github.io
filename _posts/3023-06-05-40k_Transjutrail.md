@@ -1,0 +1,124 @@
+---
+title: "Transju Trail 40"
+categories:
+  - blog
+  - sport
+tags:
+  - sport
+  - trail
+toc: true
+toc_label: "Table of Contents"
+---
+
+# Histoire
+
+C'est vraiment le trail du coin. La course passe à 500mètres de chez moi. Je connais tous les chemins, ce serait vraiment dommage de passer à côté. Aprés m'être frotté au 25k l'année dernière, j'avais envie de quelque chose de plus consistant : le 40K.
+
+# Préparation
+
+## Un long cheminement
+
+Mine de rien mon dernier __trail__ un peu costaud ( [le 36K de a vallée de Joux](https://urschuca.github.io/blog/sport/36k_TrailValleedeJoux/)) remonte à loin. Mais je ne suis pas resté inactif, loin de là. J'ai couru, fait du ski de fond, traversée la France en vélomobile et réalisé déjà plus de 1000km de vélotaf.
+
+Je me suis beaucoup renseigné sur la course à pied, les épreuves d'endurance, la nutrition. J'ai muri beaucoup de choses sur le sujet. Physiquement je ne suis vraiment pas la même personne.
+
+Après m'être entrainé aux sensations pendant de long mois j'ai finalement suivi un plan de la clinique du coureur. Je trouve leur plans simple et facile à suivre.
+
+La fin de la préparation à été marqué par un [week end choc](https://urschuca.github.io/sport/r%C3%A9cap/recap-wec/) dont je suis sortie particulièrement satisfait.
+
+## La semaine d'avant course
+
+Je voulais pas trop charger la mule pour garder du jus, mais j'avais l'[interentreprise](https://urschuca.github.io/blog/sport/Interentreprise_2023/). J'ai donc fait un peu de tout, un rappel de course en côte, un footing léger et ce cross.
+
+En plus c'était le début de Bike To Work un challenge de vélotaf dans la boite. Donc forcément j'ai cumulé un maximum de vélomobile : 160km ...
+
+Bref c'était pas idéal mais c'était pas excessif non plus.
+
+## Le matériel
+
+La [liste](https://lighterpack.com/r/zbno1w)
+
+## La stratégie
+
+### Les temps de passage
+
+Je reste fidèle a ma technique de calcul : on vise 10km effort / heure. Ce qui donne :
+
+| Lieu | Km | D+ | KmEffort | Temps estimé
+| --- | --- | --- | --- | ---
+| Prémanon | 16,8 | 1074 | 27,54 | 2,754
+| Les Dappes | 24,5 | 1464 | 39,14 | 3,914
+| Le Balancier | 33 | 2035| 53,35| 5,335
+| Arrivée | 42 | 2400 | 66 | 6,6
+
+### La stratégie alimentaire
+
+#### Nourriture
+
+Je vise 50gr de glucides à l'heure. Il y a 2 ravitos ou je compte reremplir mes flasques, donc j'embarque de la poudre de boisson dans des petit contenants.
+
+Le but c'est 2 _trucs_ par heure. Une barre c'est un truc, 500ml de boisson c'est un truc, etc...
+
+La liste des trucs :
+- 1 barre Regain a base d'amande pour le début de course pour fournir des lipides sur le long terme.
+- Beaucoup de barres baouw de gout différents pour éviter la lassitude.
+- 1 barre baouw protéine que je consommerais au bout de 3h à mi course. L'apport en protéine sur des efforts longs a un impact positif sur le maintien de la performance.
+- 2 compotes pour la fin de course ou je pourrais avoir du mal à digérer et à macher.
+- 1 pate de fruits pour la fin de course.
+
+#### Boisson
+
+De la boisson d'effort en priorité (Isostar et de la serbe).
+
+Je complète avec de l'eau claire dans ma poche à eau et quelques verres d'eau que je boirais aux ravitaillements.
+
+# La course
+
+## L'avant course
+
+Après un solide petit déjeuner composé de : galette de sarrasin sucré au sirop d'agave, banane, carré de chocolat noir 99%, biscuits protéiné, gateau yaourt bourgeon de sapin et eau vitaminé. J'ai pris mon [vélo](https://www.strava.com/activities/9198226292) pour rejoindre la navette aux départ des Rousses. Avec ce moyen de transport je méduse déjà des types. L'ascendant psychologique est pris !
+
+![velo](/assets/images/2023/transju/velo.jpg)
+
+La navette nous as ensuite déposé à Morez ou j'ai pu profiter d'un café distributé par les bénévoles.
+
+![morez](/assets/images/2023/transju/morez.jpg)
+
+Et ca n'as pas loupé, les vertus du café sur mon organisme ont frappé. Ils as fallu aller aux toilettes pour se libérer. Je trépigne un peu alors qu'il n'y as qu'une seule toilette et que je suis déjà le 5eme à faire la queue. Mais ma joie est grande quand en sortant je constate que la queue est maintenant d'une quarantaine de personnes au bas mots. Sacré timing !
+
+Je glande un peu assis avant le départ et constate que l'on as de grandes chances de prendre la pluie sur le parcours vu la météo annoncé. Je sais qu'il as plu la veille, le terrain va être glissant. Il va falloir faire atention dans les descentes, particulièrement la descente atroce du col de porte. Que j'avais parcouru en grande partie en marchant l'année dernière.
+
+## Le départ
+
+On nous annonce que le parcours à changé et qu'il y a bien 42km (la trace GPX disponible sur leur site annoncais 38) et qu'il y a une surprise à la fin que ca rajoute 200m de d+. Je n'y prête pas attention sur le moment.
+
+Aprés le traditionnel _insuportable_ échauffement, le départ est donné. On réalise un tour d'honneur de la ville (quel dommage de louper ca...) et on attaque direct la pente. Ca marche déjà et on se tape les premiers bouchons en moins de 5 minutes. 
+
+C'est toujours la même, à la première difficulté, les mecs sortent les bâtons. Il y a 0 fluidité dans le geste, c'est pas bosser à l'entrainement, ca m'exaspère au plus haut point. Tu dois esquiver pour pas te prendre des coups.
+
+Je pensais que ca serait moins présent sur une épreuve de 42km mais rien n'y fait. Prochaine course je me mets dans le permiers tiers des partants et je me lancerais sur un bon 5:00m au kil au début histoire de mettre de la distance avec tout ca.
+
+Dès que j'en ai l'occasion je mets la seconde et je remonte un max de personne, je relance sur tous les parties plates histoire de me lancer dans ma course.
+
+## Première partie : Morez - Prémanon
+
+Cette première partie est inconnu pour moi, c'est des chemins que je n'ai jamais emprunté, je manque donc de repères. C'est globalement des chemins faciles. On est dans les bois, les montées ne sont pas trop raides, les plats pas trop long et les descentes (sauf une) pas trop techniques.
+
+J'arrive à bien m'hydrater, à bien manger, à maintenir le rythme : tout va pour le mieux. Je déboite des types qui courent en montée (alors que je marche). Les sensations sont excellentes
+
+## Deuxiéme partie : Prémanon - Ravito des tuffes
+
+![chemin](/assets/images/2023/transju/chemin.jpg)
+
+## Dernière partie : Tuffes - Les rousses
+
+
+![arrive](/assets/images/2023/transju/arrive.jpg)
+
+# Conclusion
+
+![gras](/assets/images/2023/transju/gras.jpg)
+
+
+# La suite ?
+
