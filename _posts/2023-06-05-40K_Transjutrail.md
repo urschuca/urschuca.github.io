@@ -158,17 +158,19 @@ Dieu c'était gras !
 
 Même avec ma _défaillance_ de fin de parcours, je tiens le rythme visé : 10km effort / heure. Même avec le rab. Je suis très loin de finir dans un état lamentable comme au 36k de la Vallée de Joux ou j'avais du vraiment piocher en moi pour finir. Ça augure du bon !
 
-Point positifs :
+Points positifs :
 - j'ai tenu le rythme pendant plus de 6h
 - j'ai progressé en descente
 - aucun ongle noir
 - beaucoup moins mal au ventre que la dernière fois
 - ma planification était impeccable
 
-Poins négatifs :
+Points négatifs :
 - un peu _faible_ mentalement sur la fin de course. J'ai manqué de lucidité j'aurais du m'arrêter 2min pour sortir quelque chose de facile à manger pour regagner un peu de force.
 - le sac monte ses limites sur ses durées d'effort. Je manque de poche facilement accessible.
 - je ne dois rien boire de gazeux pendant la course
+
+[Le lien strava](https://www.strava.com/activities/9201076825)
 
 # La suite ?
 
