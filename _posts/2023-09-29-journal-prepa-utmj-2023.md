@@ -35,6 +35,8 @@ S | Affutage | | | | UTMJ
 
 Semaine 1 du bloc 1. Il faut bien commencer quelquepart.
 
+On commence l'entrainement avec les bâtons ! Je n'ai que mes bâtons de marche, ca fera l'affaire pour le début.
+
 Gros week end en perspective : Company Cup (10k et course d'orientation) le samedi et EVG bivouac rando le samedi soir et le dimanche.
 
 Jour | Sport | Séance | Km | mD+ | Kme
@@ -42,8 +44,8 @@ Jour | Sport | Séance | Km | mD+ | Kme
 Lundi | Vélomobile | A/R boulot (5) | 42 | 300 | N/A
 Lundi | Course à pied | Fractionné en côte | 9 | 258 | 11.5
 Mercredi | Vélomobile | A/R boulot (5) | 42 | 300 | N/A
-Mercredi | Course à pied |
-Réalisé | Course à pied | 1 fractionné | 9 | 258 | 11.§5
+Mercredi | Course à pied | AP trail (batons) | 6 | 223 | 8.2 
+Réalisé | Course à pied | 1 fractionné | 15 | 481 | 11.5
 Objectif | Course à pied | 1 fractionné | 30 | 1000 | 40
 
 
