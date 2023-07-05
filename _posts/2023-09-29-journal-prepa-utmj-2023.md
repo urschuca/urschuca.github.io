@@ -39,8 +39,10 @@ Gros week end en perspective : Company Cup (10k et course d'orientation) le same
 
 Jour | Sport | Séance | Km | mD+ | Kme
 --- | --- | --- | --- | --- | ---
+Lundi | Vélomobile | A/R boulot (5) | 42 | 300 | N/A
 Lundi | Course à pied | Fractionné en côte | 9 | 258 | 11.5
-Lundi | Vélomobile | A/R boulot | 42 | 300 | N/A
+Mercredi | Vélomobile | A/R boulot (5) | 42 | 300 | N/A
+Mercredi | Course à pied |
 Réalisé | Course à pied | 1 fractionné | 9 | 258 | 11.§5
 Objectif | Course à pied | 1 fractionné | 30 | 1000 | 40
 
