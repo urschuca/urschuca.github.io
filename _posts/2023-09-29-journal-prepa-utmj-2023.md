@@ -28,12 +28,12 @@ S-5 | Bloc 3 | | | |
 S-4 | Assimilation | 20 | 600 | 26 | -
 S-3 | Intensif | | | |
 S-2 | Intensif | | | |
-S-1 | Affutage | | | | 
-S | Affutage | | | | UTMJ
+S-1 | Affûtage | | | | 
+S | Affûtage | | | | UTMJ
 
 ## S-12
 
-Semaine 1 du bloc 1. Il faut bien commencer quelquepart.
+Semaine 1 du bloc 1. Il faut bien commencer quelque part.
 
 Gros week end en perspective : Company Cup (10k et course d'orientation) le samedi et EVG bivouac rando le samedi soir et le dimanche.
 
@@ -45,7 +45,7 @@ Lundi | Fractionné en côte | 9 | 258 | 11.5
 Mercredi | AP trail | 6 | 223 | 8.2 
 Vendredi | AP Rocheray Trail | 7.5 | 89 | 8.3
 Samedi | Company Cup | 11.2 | 103 | 12.2
-Samedi | Course d'Orientation | 6.4 | 59 |7
+Samedi | Course d'orientation | 6.4 | 59 |7
 Objectif | 1 fractionné | 30 | 1000 | 40
 Réalisé | 1 fractionné | 40.1 | 732 | 47
 
