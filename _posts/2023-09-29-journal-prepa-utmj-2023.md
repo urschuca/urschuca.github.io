@@ -18,7 +18,7 @@ toc_label: "Table of Contents"
 Semaine | Plan | Km | mD+ | kme | Remarques
 --- | --- | --- | --- | --- | ---
 S-12 | Bloc 1 | 30 | 1000 | 40 | Company Cup
-S-11 | Bloc 1
+S-11 | Bloc 1 | 40 | 1000 | 50 | Tour du lac
 S-10 | Assimilation | 20 | 600 | 26 | -
 S-9 | Bloc 2 | | | | 
 S-8 | Bloc 2 | | | | 
@@ -58,14 +58,20 @@ Mercredi | Vélomobile | A/R boulot (5) | 42 | 300
 Vendredi | Vélomobile | A/R boulot (5) | 42 | 300
 Samedi | Randonnée | Bivouac Gibloux | 4 | 100
 
-## S-12
+## S-11
 
-Semaine 2 du bloc 2. On continu sur cette lancé. Après un week end épique et éprouvant on va commencer tranquillement le début de semaine, histoire de garder du jus pour la 1ère sortie longue de la prépa : le tour du lac de joux Vendredi aprés midi !
+Semaine 2 du bloc 2. On continu sur cette lancée. Après un week end épique et éprouvant on va commencer tranquillement le début de semaine, histoire de garder du jus pour la 1ère sortie longue de la prépa : le tour du lac de joux Vendredi après midi !
 
 Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Lundi | AP Rocheray Trail | 7.2 | 89 | 8.1
+Objectif | 1 long | 40 | 1000 | 50
 
 Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
 Lundi | Vélomobile | A/R boulot (5) | 42 | 300
+
