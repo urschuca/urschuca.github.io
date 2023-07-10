@@ -37,15 +37,35 @@ Semaine 1 du bloc 1. Il faut bien commencer quelquepart.
 
 Gros week end en perspective : Company Cup (10k et course d'orientation) le samedi et EVG bivouac rando le samedi soir et le dimanche.
 
-Jour | Sport | Séance | Km | mD+ | Kme
---- | --- | --- | --- | --- | ---
-Lundi | Vélomobile | A/R boulot (5) | 42 | 300 | N/A
-Lundi | Course à pied | Fractionné en côte | 9 | 258 | 11.5
-Mercredi | Vélomobile | A/R boulot (5) | 42 | 300 | N/A
-Mercredi | Course à pied | AP trail | 6 | 223 | 8.2 
-Vendredi | Vélomobile | A/R boulot (5) | 42 | 300 | N/A
-Vendredi | Course à pied | AP Rocheray Trail | 7.5 | 89 | 8.3
-Réalisé | Course à pied | 1 fractionné | 22.5 | 347 | 26
-Objectif | Course à pied | 1 fractionné | 30 | 1000 | 40
+Récap course :
 
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Lundi | Fractionné en côte | 9 | 258 | 11.5
+Mercredi | AP trail | 6 | 223 | 8.2 
+Vendredi | AP Rocheray Trail | 7.5 | 89 | 8.3
+Samedi | Company Cup | 11.2 | 103 | 12.2
+Samedi | Course d'Orientation | 6.4 | 59 |7
+Objectif | 1 fractionné | 30 | 1000 | 40
+Réalisé | 1 fractionné | 40.1 | 732 | 47
 
+Récap autres sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
+Lundi | Vélomobile | A/R boulot (5) | 42 | 300
+Mercredi | Vélomobile | A/R boulot (5) | 42 | 300
+Vendredi | Vélomobile | A/R boulot (5) | 42 | 300
+Samedi | Randonnée | Bivouac Gibloux | 4 | 100
+
+## S-12
+
+Semaine 2 du bloc 2. On continu sur cette lancé. Après un week end épique et éprouvant on va commencer tranquillement le début de semaine, histoire de garder du jus pour la 1ère sortie longue de la prépa : le tour du lac de joux Vendredi aprés midi !
+
+Récap course :
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
+Lundi | Vélomobile | A/R boulot (5) | 42 | 300
