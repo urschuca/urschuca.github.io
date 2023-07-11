@@ -10,6 +10,8 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
+# Introduction
+
 Mon employeur m'as proposé de participer à la Company Cup Nyon 2023. C'est un évènement interentreprises multi disciplinaires. Je me suis inscrit à deux épreuves :
 - la course à pied, pompeusement nommé _urban-trail_ alors que c'est un bête cross. Deux boucles de 5,7km avec 50m de dénivelé. Une partie sur piste d'athlétisme, une partie sur bitume et une partie en chemin.
 - la course d'orientation. Une découverte pour moi.
