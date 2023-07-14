@@ -26,15 +26,15 @@ Et ça n'as pas loupé, j'ai souffert de la chaleur dès le premier tiers la deu
 
 Je commençais à doucement perdre pied quand j'ai entendu derrière moi Béné dire "Allez Philou, on s'accroche on rattrape Gauthier". J'ai alors été partagé entre attendre Philippe pour terminer avec lui ou me battre pour ne pas qu'il revienne :D. Béné qui courait un tour pour le fun (elle n'était pas officiellement inscrite à la course à pied) et venu à ma hauteur et ma accompagné sur quelques kilomètres. Ça ma clairement mis un coup de boost au moral. J'ai repris un peu d'énergie et j'ai doublé un type à l'agonie sur la fin de parcours.
 
-Je finis en 57min et Philippe a une vingtaine de secondes derrières moi. C'est vraiment horrible comme discipline, des efforts intense de "courte" durée (<1h) je trouve que c'est ce qu'il y a de plus dur.
+Je finis en 57min et Philippe a une vingtaine de secondes derrières moi. C'est vraiment horrible comme discipline, des efforts intense de "courte" durée (moins d'une heure) je trouve que c'est ce qu'il y a de plus dur.
 
 Coup de chance inespéré, on remporte la médaille d'or par équipe ! Ça prends les 4 premiers de chaque entreprise et ça additionne leur temps. La course scratch à été remporté par quelqu'un de ma société. Il as réalisé un temps stratosphérique (39min, il colle 5min au deuxième). Ça nous as bien aidé pour le classement par équipe.
 
 C'est ma première __victoire__ en course à pied. Ça fait quelque chose de monter sur le podium.
 
-[La course](https://www.strava.com/activities/9409939734)
+![La course](https://www.strava.com/activities/9409939734)
 
-[dans l'effort](assets/images/2023/company.jpg)
+![dans l'effort](assets/images/2023/company.jpg)
 
 ## La course d'orientation
 
