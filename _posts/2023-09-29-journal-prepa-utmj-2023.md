@@ -67,11 +67,15 @@ Récap course :
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
 Lundi | AP Rocheray Trail | 7.2 | 89 | 8.1
+Mardi | Séance de côte | 7.5 | 328 | 10.7
 Objectif | 1 long | 40 | 1000 | 50
+Réalisé | | | |
 
 Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
 Lundi | Vélomobile | A/R boulot (5) | 42 | 300
+Mardi | Vélomobile | A/R boulot (5) | 42 | 300
+Vendredi | Vélomobile | A/R boulot (5) | 42 | 300
 
