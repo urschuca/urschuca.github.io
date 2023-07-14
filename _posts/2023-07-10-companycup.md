@@ -34,7 +34,7 @@ C'est ma première __victoire__ en course à pied. Ça fait quelque chose de mon
 
 ![La course](https://www.strava.com/activities/9409939734)
 
-![dans l'effort](assets/images/2023/company.jpg)
+![dans l'effort](/assets/images/2023/company.jpg)
 
 ## La course d'orientation
 
