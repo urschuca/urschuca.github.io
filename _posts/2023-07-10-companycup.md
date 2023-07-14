@@ -18,7 +18,7 @@ Mon employeur m'as proposé de participer à la Company Cup Nyon 2023. C'est un 
 
 ## La course à pied
 
-Personne ne connaissait bien la distance, certains disait 9, d'autres 10, c'est finalement 11.4 en deux boucles de 5.7. Je tablais sur 50min au 10k donc sur une allure cible de 5:00m/km.
+Personne ne connaissait bien la distance, certains disaient 9, d'autres 10, c'est finalement 11.4 en deux boucles de 5.7. Je tablais sur 50min au 10k donc sur une allure cible de 5:00m/km.
 
 Après un départ prudent j'ai finalement pris mon rythme de croisière et remonté quelques places. J'ai longtemps bataillé avec la 3ème féminine sans réussir à la doubler. Les sensations étaient vraiment bof bof, point de côté et j'ai très vite eu soif ! Ça sentait mauvais avant même la moitié de la course. 
 
@@ -30,9 +30,11 @@ Je finis en 57min et Philippe a une vingtaine de secondes derrières moi. C'est 
 
 Coup de chance inespéré, on remporte la médaille d'or par équipe ! Ça prends les 4 premiers de chaque entreprise et ça additionne leur temps. La course scratch à été remporté par quelqu'un de ma société. Il as réalisé un temps stratosphérique (39min, il colle 5min au deuxième). Ça nous as bien aidé pour le classement par équipe.
 
-C'est ma première __victoire__ en course à pied. Ça fait quelque chose de monté sur le podium.
+C'est ma première __victoire__ en course à pied. Ça fait quelque chose de monter sur le podium.
 
 [La course](https://www.strava.com/activities/9409939734)
+
+[dans l'effort](assets/images/2023/company.jpeg)
 
 ## La course d'orientation
 
