@@ -32,7 +32,7 @@ Coup de chance inespéré, on remporte la médaille d'or par équipe ! Ça prend
 
 C'est ma première __victoire__ en course à pied. Ça fait quelque chose de monter sur le podium.
 
-![La course](https://www.strava.com/activities/9409939734)
+[La course](https://www.strava.com/activities/9409939734)
 
 ![dans l'effort](/assets/images/2023/company.jpg)
 
