@@ -68,8 +68,9 @@ Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
 Lundi | AP Rocheray Trail | 7.2 | 89 | 8.1
 Mardi | Séance de côte | 7.5 | 328 | 10.7
+Vendredi | Bout du lac | 18.7 | 181 | 20.5
 Objectif | 1 long | 40 | 1000 | 50
-Réalisé | | | |
+Réalisé | 1 long | 33.4 | 598 | 39.4
 
 Récap autre sports :
 
@@ -78,4 +79,39 @@ Jour | Sport | Séance | Km | mD+
 Lundi | Vélomobile | A/R boulot (5) | 42 | 300
 Mardi | Vélomobile | A/R boulot (5) | 42 | 300
 Vendredi | Vélomobile | A/R boulot (5) | 42 | 300
+Samedi | Marche | La Cure | 2 | 50
+Dimanche | Marche | La Cure | 3.4 | 50 
 
+J'ai pas pu finir le tour du lac. J'étais beaucoup trop lent au vu du créneau disponible. Ca ma détruit les jambes j'étais vraiment dans le dur le samedi et le dimanche qui ont suivi. C'est étonnant, mais le parcours du tour du lac est trés _plat_ et tu as trés peu de changement de rythme, chose auquel je suis peu habitué. Peut être aussi que je paye le week end dernier trés chargé et avec peu de repos.
+
+J'ai finis la semaine un peu en dessous de que je visais comme volume.
+
+## S-10
+
+C'est une semaine de __repos__. J'ai une formation au boulot donc ca risque de pertruber mes sorties traditionelles. On verra ce que j'arrive à faire.
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | n/a | 20 | 600 | 26
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
+
+## S-x
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | | | |
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
