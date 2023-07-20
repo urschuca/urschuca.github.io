@@ -101,6 +101,8 @@ Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
+Mercredi | Vélomobile | A/R boulot (4) | 42 | 300
+Jeudi | Vélomobile | A/R boulot (4) record aller | 42 | 300
 
 ## S-x
 
