@@ -112,10 +112,13 @@ Au final, une toute petite semaine mais c'est bien suffisant.
 
 ## S-9
 
+Mes Veets Utopik sont bien fatiguées après 1an et un peu plus de 600km. J'ai acheté des Altra Lone Peak étant trés attirés par l'approche drop 0 et la place supplémentaires pour les orteils. C'est vraiment une approche de design à l'inverse de la majorité des autres marques. Normalement ca va pas mal tirer sur les mollets dans les prochains jours car le tendon d'achille est plus sollicité, mais au final ca devrait me renforcer et lever mes douleurs récurentes aux mollets. On verra à la fin de la prépa.
+
 Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
+Lundi | Trail Rocheray Court | 7.1 | 86 | 7.9
 Objectif | 1 fractionné | 42 | 1060 | 52.6
 Réalisé | | | |
 
