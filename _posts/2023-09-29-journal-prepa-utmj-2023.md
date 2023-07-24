@@ -88,14 +88,15 @@ J'ai finis la semaine un peu en dessous de que je visais comme volume.
 
 ## S-10
 
-C'est une semaine de __repos__. J'ai une formation au boulot donc ca risque de pertruber mes sorties traditionelles. On verra ce que j'arrive à faire.
+C'est une semaine de __repos__. J'ai une formation au boulot donc ca risque de perturber mes sorties traditionelles. On verra ce que j'arrive à faire.
 
 Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
+Vendredi | Trail Rocheray | 9.3 | 150 | 10.8
 Objectif | n/a | 20 | 600 | 26
-Réalisé | | | |
+Réalisé | n/a | 9.3 | 150 | 10.8
 
 Récap autre sports :
 
@@ -103,6 +104,26 @@ Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
 Mercredi | Vélomobile | A/R boulot (4) | 42 | 300
 Jeudi | Vélomobile | A/R boulot (4) record aller | 42 | 300
+Vendredi | Vélomobile | A/R boulot (4) | 42 | 300
+Samedi | Randonnée | Echenevex | 6.7 | 285
+Dimanche | Renforcement 1h | n/a | n/a
+
+Au final, une toute petite semaine mais c'est bien suffisant.
+
+## S-9
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | 1 fractionné | 42 | 1060 | 52.6
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
+Lundi | Vélomobile | A/R boulot (4) | 42 | 300
 
 ## S-x
 
