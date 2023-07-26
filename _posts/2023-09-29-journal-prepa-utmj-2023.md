@@ -20,11 +20,11 @@ Semaine | Plan | Km | mD+ | kme | Remarques
 S-12 | Bloc 1 | 30 | 1000 | 40 | Company Cup
 S-11 | Bloc 1 | 40 | 1000 | 50 | Tour du lac
 S-10 | Assimilation | 20 | 600 | 26 | -
-S-9 | Bloc 2 | | | | 
+S-9 | Bloc 2 | 40 | 1200 | 52 | - 
 S-8 | Bloc 2 | | | | 
-S-7 | Assimilation | 20 | 600 | 26 | -
+S-7 | Assimilation | 20 | 600 | 26 | Rubatée
 S-6 | Bloc 3 | | | |
-S-5 | Bloc 3 | | | |
+S-5 | Bloc 3 | | | | BTC
 S-4 | Assimilation | 20 | 600 | 26 | -
 S-3 | Intensif | | | |
 S-2 | Intensif | | | |
@@ -119,7 +119,8 @@ Récap course :
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
 Lundi | Trail Rocheray Court | 7.1 | 86 | 7.9
-Objectif | 1 fractionné | 42 | 1060 | 52.6
+Mardi | Fractionné en côte | 8.6 | 333 | 11.9
+Objectif | 1 fractionné | 40 | 1200 | 52
 Réalisé | | | |
 
 Récap autre sports :
@@ -127,6 +128,7 @@ Récap autre sports :
 Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
 Lundi | Vélomobile | A/R boulot (4) | 42 | 300
+Mercredi | Vélomobile | A/R boulot (4) | 42 | 300
 
 ## S-x
 
