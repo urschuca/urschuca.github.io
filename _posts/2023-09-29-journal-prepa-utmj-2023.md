@@ -119,9 +119,10 @@ Récap course :
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
 Lundi | Trail Rocheray Court | 7.1 | 86 | 7.9
-Mardi | Fractionné en côte | 8.6 | 333 | 11.9
+Mercredi | Fractionné en côte | 8.6 | 333 | 11.9
+Vendredi | AP long | 9 | 224 | 11.2
 Objectif | 1 fractionné | 40 | 1200 | 52
-Réalisé | | | |
+Réalisé | 1 fractionné | 24.7 | 643 | 31.1
 
 Récap autre sports :
 
@@ -129,6 +130,26 @@ Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
 Lundi | Vélomobile | A/R boulot (4) | 42 | 300
 Mercredi | Vélomobile | A/R boulot (4) | 42 | 300
+Dimanche | Renforcementm 2h | n/a | n/a 
+
+La séance en côte du mercredi ma __détruit__ les mollets. Aucun problèmes au niveau des cuisses mais le reste à pris cher ! J'ai mis plusieurs jours à récupérer, est ce que c'est du aux nouvelles chaussures ? Probable.
+
+Semaine bien en dessous de ce que j'avais prévu mais les douleurs au mollet ont persisté jusqu'au début de la semaine suivante. 
+
+## S-8
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | 1 long | 50 | 1500 | 65
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
+Lundi | Vélomobile | A/R boulot (4) | 42 | 300
 
 ## S-x
 
