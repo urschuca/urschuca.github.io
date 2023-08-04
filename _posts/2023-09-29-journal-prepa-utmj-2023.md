@@ -138,10 +138,14 @@ Semaine bien en dessous de ce que j'avais prévu mais les douleurs au mollet ont
 
 ## S-8
 
+Une semaine entre le Jura et la Lorraine. Je vais devoir trouver des nouveaux sentiers !
+
 Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
+Lundi | Boucle AP | 10.4 | 349 | 13.9
+Mercredi | Royau - Manoncourt AR | 9.5 | 172 | 11.2
 Objectif | 1 long | 50 | 1500 | 65
 Réalisé | | | |
 
@@ -149,7 +153,9 @@ Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
-Lundi | Vélomobile | A/R boulot (4) | 42 | 300
+Lundi | Vélomobile | Aller boulot (4) | 21 | 100
+Lundi | Vélomobile | Retour boulot à moitié sans assistance | 21 | 200
+Multiples | Marche(s) | 1.23+1.01+1.31+7.36 | 21+21+8+43 |
 
 ## S-x
 
