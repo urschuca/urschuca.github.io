@@ -147,7 +147,7 @@ Jour |  Séance | Km | mD+ | Kme
 Lundi | Boucle AP | 10.4 | 349 | 13.9
 Mercredi | Royau - Manoncourt AR | 9.5 | 172 | 11.2
 Objectif | 1 long | 50 | 1500 | 65
-Réalisé | | | |
+Réalisé | n/a | 20 | 521 | 25
 
 Récap autre sports :
 
@@ -155,7 +155,25 @@ Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
 Lundi | Vélomobile | Aller boulot (4) | 21 | 100
 Lundi | Vélomobile | Retour boulot à moitié sans assistance | 21 | 200
-Multiples | Marche(s) | 1.23+1.01+1.31+7.36 | 21+21+8+43 |
+Multiples | Marche(s) | 14 | 127 | 15
+
+encore une semaine bien en dessous de ce que j'aimerais faire. Ca entretient la forme mais elle ne progresse pas.
+
+## S-x
+
+Cette semaine devait être une semaine de "rcéupération" mais je suis très largement en dessous du volume nécessaire sur les deux dernières semaines. On va donc corser un peu cette semaine. L'idéal serait de faire une sortie dans les vosges en début de semaine, puis enchainer avec 3 sortie boulot (pourquoi pas un retour) et il y a la rubaté dimanche.
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | | | |
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
 
 ## S-x
 
