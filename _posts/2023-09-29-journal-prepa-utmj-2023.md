@@ -159,14 +159,15 @@ Multiples | Marche(s) | 14 | 127 | 15
 
 encore une semaine bien en dessous de ce que j'aimerais faire. Ca entretient la forme mais elle ne progresse pas.
 
-## S-x
+## S-7
 
-Cette semaine devait être une semaine de "rcéupération" mais je suis très largement en dessous du volume nécessaire sur les deux dernières semaines. On va donc corser un peu cette semaine. L'idéal serait de faire une sortie dans les vosges en début de semaine, puis enchainer avec 3 sortie boulot (pourquoi pas un retour) et il y a la rubaté dimanche.
+Cette semaine devait être une semaine de "récupération" mais je suis très largement en dessous du volume nécessaire sur les deux dernières semaines. On va donc corser un peu cette semaine. L'idéal serait de faire une sortie dans les vosges en début de semaine, puis enchainer avec 3 sortie boulot (pourquoi pas un retour) et il y a la rubaté dimanche.
 
 Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
+Lundi | Run la Trouche | 9.6 | 82 | 10.4
 Objectif | | | |
 Réalisé | | | |
 
