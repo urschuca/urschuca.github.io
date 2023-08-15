@@ -163,6 +163,7 @@ Encore une semaine bien en dessous de ce que j'aimerais faire. Ca entretient la 
 
 Cette semaine devait être une semaine de "récupération" mais je suis très largement en dessous du volume nécessaire sur les deux dernières semaines. On va donc corser un peu cette semaine. L'idéal serait de faire une sortie dans les vosges en début de semaine, puis enchainer avec 3 sortie boulot (pourquoi pas un retour) et il y a la rubatée dimanche.
 
+J'ai oublié mes affaires le jeudi. Donc changement de plan le vendredi je reviens du taf en courant !
 
 Récap course :
 
@@ -170,13 +171,27 @@ Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
 Lundi | Run la Trouche | 9.6 | 82 | 10.4
 Mercredi | Boucle Bioux | 7.3 | 137 | 8.6
-Objectif | 1 Longue | x | x | 50
+Vendredi | Retour taf | 25.2 | 539 |
+Dimanche | Rubatée | 9.4 | 220 | 11.5
+Objectif | 1 Longue | x | x | au moins 50
+Réalisé | 1 longue | 51.4 | 978 | 61.3
+
+Pas d'autre sports :(.
+
+## S-6
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | | | |
 Réalisé | | | |
 
 Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
+Lundi | A/R don du sang vélomobile | 6 | 40
 
 ## S-x
 
