@@ -180,6 +180,10 @@ Pas d'autre sports :(.
 
 ## S-6
 
+J'ai réussi à faire ce que je voulais en terme de volume la semaine dernière. Encore une semaine compliqué au niveau emploi du temps, ce serait bien d'arriver a faire au moins 1 A/R au Noirmont et de réparer ce vélo ...
+
+J'ai donné mon sang lundi et d'expérience ca se paye niveau performances dans la semaine. On va faire une reprise en douceur niveau cardiaque. Pour finir sur un gros fractionné en fin de semaine !
+
 Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
