@@ -180,15 +180,17 @@ Pas d'autre sports :(.
 
 ## S-6
 
-J'ai réussi à faire ce que je voulais en terme de volume la semaine dernière. Encore une semaine compliqué au niveau emploi du temps, ce serait bien d'arriver a faire au moins 1 A/R au Noirmont et de réparer ce vélo ...
+J'ai réussi à faire ce que je voulais en terme de volume la semaine dernière. Encore une semaine compliqué au niveau emploi du temps, ce serait bien d'arriver a faire au moins un Noirmont et de réparer ce vélo ...
 
-J'ai donné mon sang lundi et d'expérience ca se paye niveau performances dans la semaine. On va faire une reprise en douceur niveau cardiaque. Pour finir sur un gros fractionné en fin de semaine !
+J'ai donné mon sang lundi et d'expérience ca se paye niveau performance dans la semaine. On va faire une reprise en douceur niveau cardiaque. Pour finir sur un gros fractionné en fin de semaine !
 
 Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
-Objectif | | | |
+Mardi | Footing récup | 11.1 | 143 | 12.5
+Mercredi | Parcours vita x 4 | 5.5 | 208 | 7.5
+Objectif | 1 fractionné | 51 | 1700 | 68
 Réalisé | | | |
 
 Récap autre sports :
