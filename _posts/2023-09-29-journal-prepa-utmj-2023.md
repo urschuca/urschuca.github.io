@@ -190,14 +190,40 @@ Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
 Mardi | Footing récup | 11.1 | 143 | 12.5
 Mercredi | Parcours vita x 4 | 5.5 | 208 | 7.5
+Vendredi | Run découverte | 9 | 215 | 11.1
 Objectif | 1 fractionné | 51 | 1700 | 68
-Réalisé | | | |
+Réalisé | n/a | 25.6 | 566 | 31.2
+
+Sensation pas top en fin de semaine, douleur à la hanche droite et la chaleur me mets toujours un gros coup.
 
 Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
 --- | --- | --- | --- | ---
 Lundi | A/R don du sang vélomobile | 6 | 40
+Multiples | Marche | Multiples | 6 | 155
+
+Une semaine encore en dessous, il y a la BTC la semaine prochaine, le premier juge de paix ! Une semaine marquée par une douleur à la hanche, pas handicapant mais préoccupant.
+
+Le vélo est toujours en vrac, ca n'as pas l'air aussi simple que ca a réparé. Ca m'embête vraiment car le volume hebdomadaire en prends un gros coup !
+
+## S-5
+
+La douleur à la hanche droite persiste. Ca devrait partir avec du repos et du renforcement, je suis le pire singe de ne pas avoir continué le renforcement.
+
+Une semaine légère avec le vrai test de cette prépa : la BTC.
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | | | |
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+--- | --- | --- | --- | ---
 
 ## S-x
 
@@ -211,4 +237,3 @@ Réalisé | | | |
 Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
---- | --- | --- | --- | ---
