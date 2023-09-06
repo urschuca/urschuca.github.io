@@ -211,7 +211,49 @@ Le vélo est toujours en vrac, ca n'as pas l'air aussi simple que ca a réparé.
 
 La douleur à la hanche droite persiste. Ca devrait partir avec du repos et du renforcement, je suis le pire singe de ne pas avoir continué le renforcement.
 
-Une semaine légère avec le vrai test de cette prépa : la BTC.
+Une semaine légère avec le vrai test de cette prépa : la BTC, on croise les doigts pour que la météo le permette. Mais comme le dit un grand homme "Qui regarde trop la météo, reste au bistrot !".
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Mercredi | Fractionné 3x1km | 8.4 | 24 | 8.4
+Vendredi | Footing | 8.4 | 24 | 8.4
+Dimanche | MTC | 47.2 | 1993 | 67.3
+Objectif | 1 trés long | 70 | 3000 | 100
+Réalisé | 1 trés long | 64 | 2041 | 84.4
+
+La BTC est annulé à cause de mauvais temps, je me suis rabattu sur un défi perso à peu prés équivalent. Philippe ma accompagné c'était sympa.
+
+La forme est là mais je n'ai pas le niveau pour faire 75km. J'ai encore du temps avant la course mais j'ai un emploi du temps beaucoup trop chargé pour pouvoir m'entrainer correctement. De plus le profile de l'UTMJ la renarde est __trés__ roulant (seulement 2500m de d+ pour 75km), ce qui ne correspond pas actuellement à mes qualités. Je vais me réorienter sur le trail de la vallée de joux, le 56k avec beaucoup plus de dénivelé. Non seulement le profile me correspond plus, mais l'évenement est une semaine plus tard ce qui me laisse un peu plus de temps de me préparer.
+
+## Vrai S-5
+
+Une semaine de récupération aprés la __trés__ grosse sortie de la semaine prochaine. J'ai peu de temps pour courrir, on verra ce que j'arrive à faire. Par contre j'ai pas mal de temps à la maison je vais pouvoir faire du renforcement/gainage/étirement pour limiter ma petite gêne à la hanche droite.
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Mardi | Décrassage et PPG | 5.5 | 81 | 6.3
+Objectif | n/a | 20 | 600 | 26
+Réalisé | n/a | 5.5 | 81 | 6.3
+
+Assez peu de course à pied malheureusement.
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+Multiple | Marche | 3 séances | 28.16 | 333
+Multiple | PPG | 3 séances | n/a | n/a
+
+Pas mal de marche, pas mal de gainage, beaucoup de déménagement. Une bonne semaine de renforcement général au final.
+
+## S-4
+
+Une semaine de remise en route, je vais pouvoir faire au moins deux sorties course à pied et la sortie joelette devrait être plus complète que de la simple randonnée.
+
+On continue la PPG avec au moins deux ou trois séances.
 
 Récap course :
 
@@ -223,9 +265,41 @@ Réalisé | | | |
 Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
---- | --- | --- | --- | ---
+Lundi | Marche | Multiples | 2 | 15
+Lundi | PPG | 1 séance | n/a | n/a
+Mardi | Sortie Joelette | Sortie Marchairuz | 16.55 | 324
 
-## S-x
+## S-3
+
+Je déménage cette semaine. Ca va être __encore__ compliqué.
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | | | |
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+
+## S-2
+
+L'emploi du temps se libère. L'objectif approche, c'est la dernière semaine ou je peut faire du sale, les semaines suivantes seront consacrés à l'affutage.
+
+Récap course :
+
+Jour |  Séance | Km | mD+ | Kme
+--- | --- | --- | --- | ---
+Objectif | | | |
+Réalisé | | | |
+
+Récap autre sports :
+
+Jour | Sport | Séance | Km | mD+
+
+## S-1
 
 Récap course :
 
