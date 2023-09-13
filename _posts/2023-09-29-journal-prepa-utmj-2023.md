@@ -259,8 +259,10 @@ Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
-Objectif | | | |
-Réalisé | | | |
+Mercredi | Sortie trail | 7.3 | 101 | 8.3
+Vendredi | Sortie trail | 8.5 | 302 | 11.5
+Objectif | n/a | 20 | 600 | 26
+Réalisé | 2 sortie | 15.8 | 403 | 19.8
 
 Récap autre sports :
 
@@ -268,21 +270,27 @@ Jour | Sport | Séance | Km | mD+
 Lundi | Marche | Multiples | 2 | 15
 Lundi | PPG | 1 séance | n/a | n/a
 Mardi | Sortie Joelette | Sortie Marchairuz | 16.55 | 324
+Jeudi | PPG | 1 séance | n/a | n/a
+
+Au final une bonne semaine. Moins de course à pied que prévue, mais la sortie joelette compense largement.
 
 ## S-3
 
-Je déménage cette semaine. Ca va être __encore__ compliqué.
+Je déménage cette semaine. Ca va être __encore__ compliqué. C'est censé être une grosse semaine mais si j'arrive a faire 3 sorties correcte au boulot et deux PPG à la maison ca sera déjà pas si mal.
 
 Récap course :
 
 Jour |  Séance | Km | mD+ | Kme
 --- | --- | --- | --- | ---
-Objectif | | | |
+Mardi | Vita x 5 | 6.8 | 242 | 9.2
+Mercredi | Sortie Trail + PPG | 8.6 | 149 | 10
+Objectif | n/a | 60 | 2200 | 82
 Réalisé | | | |
 
 Récap autre sports :
 
 Jour | Sport | Séance | Km | mD+
+Lundi | PPG | 1 séance | n/a | n/a
 
 ## S-2
 
