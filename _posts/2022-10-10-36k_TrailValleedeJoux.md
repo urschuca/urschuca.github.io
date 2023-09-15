@@ -55,7 +55,7 @@ Je ressemble à rien.
 
 Je ne fais pas d'échauffement. Je me dis que sur 36km j'ai le temps de partir tranquille et de me chauffer progressivement. 
 
-J'ai la bonne surpsie de voir Yann me faire un coucou avant le départ (il habite a 200m du départ).
+J'ai la bonne surprise de voir Yann me faire un coucou avant le départ (il habite a 200m du départ).
 
 Le départ est lancé, je part tranquillement. On aborde assez vite la montée de la dent que je ne connaissais pas du tout. C'est un peu long mais pas trop raide. J'arrive a la dent de Vaulion avec 10min d'avance sur mes timings envisagés. La température est idéal. Il y a du brouillard mais ce n'est pas handicapant (sauf pour le paysage, on ne vois rien en haut de la dent).
 
