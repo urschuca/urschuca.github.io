@@ -1,5 +1,5 @@
 ---
-title: "Transju Trail 40"
+title: "Transju Trail : 42k"
 categories:
   - blog
   - sport

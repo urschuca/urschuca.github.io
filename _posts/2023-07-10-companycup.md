@@ -1,5 +1,5 @@
 ---
-title: "Company Cup 2023 Nyon"
+title: "Company Cup 2023 Nyon : 11k et Course d'Orientation"
 categories:
   - sport
   - blog
