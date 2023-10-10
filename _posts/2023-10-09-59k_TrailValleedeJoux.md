@@ -137,7 +137,7 @@ On attends au coin du feu :
 ![feu](/assets/images/2023/tvj/feu.jpeg)
 
 La ligne de départ :
-![depart](assets/images/2023/tvj/depart.jpeg)
+![depart](/assets/images/2023/tvj/depart.jpeg)
 
 Après un briefing succinct, le départ est donné dans la nuit !
 
@@ -171,7 +171,7 @@ Direction la dent de Vaulion, on attaque une montée raide et c'est un domaine o
 
 Malheureusement à mi pente, la maladie se réveille ! Je suis pris de quinte de toux et dois ménager mon effort. Mais la vue se libère et ca me redonne du baume au coeur. La dent est en vue :
 
-![objectif](assets/images/2023/tvj/objectif.jpeg)
+![objectif](/assets/images/2023/tvj/objectif.jpeg)
 
 J'avance plutôt bien sur cette portion, la vue est dégagé, c'est trés agréable. J'arrive à la dent et j'attaque la descente. Au bout de 500m je _vole_ un verre d'eau à un bidon de 35L posé sur le toit d'une voiture. Ayant vu le coureur devant moi faire de même je suis confiant. C'est bien de l'eau, ca va me permettre d'économiser un peu sur mes flasques. Aprés à peine quelques centaines de mèters de descente, je constate que j'ai déjà trés mal au pied. Ca m'embete car la portion Dent de Vaulion - Croix de Chatel est une aprtie plutot roulante et avec une douleur pareil ca ma être compliqué.
 
