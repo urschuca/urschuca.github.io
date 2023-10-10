@@ -31,6 +31,7 @@ Le plan était top sur le papier. Mais la encore les aléas d'agenda, les format
 Au final cela fait deux étés que je m'entraîne pour courir le trail de la vallée de Joux. L'année dernière j'avais couru le [36k](https://urschuca.github.io/blog/sport/36k_TrailValleedeJoux/). Consignant tous mes entraînement sur la plate-forme Nolio, c'est l'occasion de comparer ces deux années :
 
 2022 : du 6 juin au 9 octobre exclus
+
 2023 : du 5 juin au 8 octobre exclus
 
 | Année | Km course | D+ course | H course | Km vélo | d+ vélo | H vélo | Km rando/marche | d+ rando/marche | H renfo
@@ -38,6 +39,10 @@ Au final cela fait deux étés que je m'entraîne pour courir le trail de la val
 | 2022 | 383.5 | 8645 | 48h35 | 59.2 | 703 | 3h18 | 348.5 | 5012 | 0
 | 2023 | 399.9 | 9620 | 50h20 | 766.3 | 5730 | 20h35 | 165 | 2530 | 7h29
 | Comparaison | +4% | +12% | +4% | +1294% | +815% | +621% | -53% | -50% | N/A
+
+Kmeffort cumulé comparé 2022/2023:
+![2022vs2023](/assets/images/2023/tvj/2022vs2023.png)
+
 
 On est sur un volume d'entraînement en course à pied sensiblement identique. Beaucoup moins de randonnée (pas facile avec la petite pour l'instant mais ça ne saurait tarder) mais beaucoup plus de vélo (merci le vélomobile).
 
