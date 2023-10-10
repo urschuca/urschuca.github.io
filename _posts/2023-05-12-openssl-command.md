@@ -30,3 +30,9 @@ openssl x509 -in mycert.crt -out mycert.pem -outform PEM
 openssl x509 -noout -text -in <CERTIFICATE>
 ```
 
+## Read distant certificate
+
+```
+openssl s_client -connect host:port -state -debug
+```
+
