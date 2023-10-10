@@ -24,6 +24,8 @@ Cette année plutôt que de suivre un plan trouvé sur internet j'ai construit m
 
 Le plan était top sur le papier. Mais la encore les aléas d'agenda, les formations obligatoires au travail (deux semaines qui sautent), mon déménagement, un week end de mariage ont fait que je n'ai pas pu suivre mon plan comme je l'aurais souhaité.
 
+[prévu_sur_réalisé](/assets/images/2023/tvj/prevu_realise.png)
+
 ## Comparaison préparation 2022 / 2023
 
 Au final cela fait deux étés que je m'entraîne pour courir le trail de la vallée de Joux. L'année dernière j'avais couru le [36k](https://urschuca.github.io/blog/sport/36k_TrailValleedeJoux/). Consignant tous mes entraînement sur la plate-forme Nolio, c'est l'occasion de comparer ces deux années :
