@@ -16,7 +16,7 @@ toc_label: "Table of Contents"
 ## Ingrédients (x portions)
 
 - 60 g de beurre
-- 4 bananes
+- 3 bananes
 - 2 œufs
 - 80 g de sucre
 - 50 g de poudre d’amandes
