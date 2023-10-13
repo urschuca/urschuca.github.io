@@ -40,7 +40,7 @@ Au final cela fait deux étés que je m'entraîne pour courir le trail de la val
 | 2023 | 399.9 | 9620 | 50h20 | 766.3 | 5730 | 20h35 | 165 | 2530 | 7h29
 | Comparaison | +4% | +12% | +4% | +1294% | +815% | +621% | -53% | -50% | N/A
 
-Kmeffort cumulé comparé 2022/2023:
+Kmeffort en course à pied cumulé comparé 2022/2023:
 ![2022vs2023](/assets/images/2023/tvj/2022vs2023.png)
 
 
@@ -101,7 +101,7 @@ Pas de stratégie sur les temps de passage au vu de mon état de forme. Le but c
 
 ### La stratégie alimentaire
 
-On reste sur l'idée de la BTC : 50gr de glucide à l'heure. On commence par des barres, quand c'est dur on passe a la compote et quand c'est plus dur on passe sur boisson d'effort uniquement
+On reste sur l'idée de la BTC : 50gr de glucide à l'heure. On commence par des barres, puis on passe a la compote et si rien ne passe on passe sur de la boisson d'effort uniquement
 
 #### Nourriture
 
@@ -128,9 +128,9 @@ Boisson d'effort enduractiv 2 flasques pleines et 6 recharges en sachet individu
 
 Je devais covoiturer avec un collègue qui étais inscrit sur la même course, il passait devant chez moi. Malheureusement avec 39 de fièvre la veille de la course, il était forfait avant même le départ.
 
-Après une nuit calme (comprendre sans l'enfant) je me suis levé à 4h00. Petit déjeuner [banana bread](https://urschuca.github.io/recette/banana-bread/) et tisane de curcuma. Départ direction le centre sportif 4h30.
+Après une nuit calme (comprendre sans l'enfant) je me suis levé à 4h00. Petit déjeuner composé de [banana bread](https://urschuca.github.io/recette/banana-bread/) et tisane de curcuma. Départ direction le centre sportif 4h30.
 
-J'arrive au centre sportif, on me guide vers le parking et je marche vers le bus. J'attends dans le bus au chaud et c'est pas de refus car il fait pas super chaud. Un nouveau bus se pointe et le notre part direction la grille de départ à l'Abbaye.
+J'arrive au centre sportif, on me guide vers le parking et je marche vers le bus. J'attends dans le bus au chaud et c'est pas de refus car il fait froid. Un nouveau bus se pointe et le notre part direction l'Abbaye.
 
 J'arrive à l'abbaye et retire mon dossard : le __98__.
 
@@ -220,7 +220,9 @@ Je croise avec bonheur Magali et Izia qui m'attendent au bord du chemin. Je disc
 
 Cette fin de parcours est vraiment longue, 3 fois que je l'emprunte et je m'en étonne à chaque fois. Je termine à l'arraché, en marchant dans la dernière descente très technique (je la marche a l'entraînement donc c'est pas aujourd'hui que je vais claquer un chrono dedans) et j'arrive a relancer a 7min du kil dans les derniers kilomètres avant l'arrivée.
 
-Je boucle le parcours en 10h50, à 10 minutes de la barrière horaire.
+Je boucle le parcours en 10h50, à 10 minutes de la barrière horaire. La foulée est ample, la fatigue ne se voit absolument pas :
+
+![finish](/assets/images/2023/tvj/finish.png)
 
 
 ### Côté chiffres
