@@ -11,9 +11,7 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-# Banana Bread
-
-## Ingrédients (x portions)
+## Ingrédients (1 cake)
 
 - 60 g de beurre
 - 3 bananes
