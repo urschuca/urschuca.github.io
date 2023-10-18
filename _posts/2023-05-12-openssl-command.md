@@ -6,11 +6,10 @@ tags:
   - it
   - openssl
   - certificate
+  - ssl
 toc: true
 toc_label: "Table of Contents"
 ---
-
-# Openssl usefull command
 
 ## Convert PKCS7 to CRT
 
