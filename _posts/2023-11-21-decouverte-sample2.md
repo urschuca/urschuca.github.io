@@ -20,7 +20,7 @@ Toute l'instrumentale me parle, pour moi ca provient d'un mix de Drum & Bass d' 
 
 Déjà déception, le mix et/ou le titre n'est pas disponible chez Spotify. Il va falloir chercher dans les tréfonds de Youtube.
 
-Après recherche il s'avère que une fois encore j'avais tout faux. Le titre que je connaissais est un remix de __I git 5 on It__ de _Luniz_. Chose courante à l'époque ou le matériel de base de beaucoup de musique electro/rap sont des vinyles récupérer à gauche.
+Après recherche il s'avère que une fois encore j'avais tout faux. Le titre que je connaissais est un remix de __I git 5 on It__ de _Luniz_. Chose courante à l'époque ou le matériel de base de beaucoup de musique electro/rap sont des vinyles récupéré à gauche.
 
 Le remix de _Aprhodite_ :
 
