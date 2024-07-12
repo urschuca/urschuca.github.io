@@ -1,5 +1,5 @@
 ---
-title: "Courses diverses et incertitudes
+title: "Courses diverses et incertitude"
 categories:
   - sport
 tags:
