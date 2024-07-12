@@ -2,6 +2,7 @@
 title: "Courses diverses et incertitude"
 categories:
   - sport
+  - blog
 tags:
   - sport
   - route
