@@ -7,7 +7,6 @@ tags:
   - sport
   - route
   - blessure
-  - off
 toc: true
 toc_label: "Table of Contents"
 ---
