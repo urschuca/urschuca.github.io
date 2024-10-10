@@ -52,7 +52,7 @@ Le profil annonce la couleur : 4km5 à plat puis 4k5 ou l'on monte de 700m.
 
 Le plan est simple on s'enquille le plat a 12 à l'heure, on sort les bâtons et on déboite cette montagne. La descente sera faite en funiculaire, on monte comme si demain n'existait pas. 
 
-insert spotify murder the mountain
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5RQlhjpn4qz3q2vRrAGYD9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Lors de l'inscription il fallait préciser un temps de course. Ne me rendant pas bien compte de la raideur du truc j'avais estimé à 45minutes, aprés analyse le record de l'épreuve est de 44minutes. Surement un poil excessif : __überschätzen__ c'est un peu mon mantra à moi.
 
