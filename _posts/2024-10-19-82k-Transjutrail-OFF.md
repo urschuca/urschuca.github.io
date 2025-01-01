@@ -12,21 +12,21 @@ toc_label: "Table of Contents"
 
 # Une aventure en OFF
 
-Dans l'idée de faire la PTL dans quelques années, il faut valider plusieurs jalons avant de pouvoir prétendre s'y inscrire sans mettre sa vie en danger. L'un de ces jalons c'est être habitué a des efforts longs, en autonomie, sans balisage et en binôme.
+Dans l'idée de faire la PTL dans quelques années, il faut valider plusieurs jalons avant de pouvoir prétendre s'y inscrire sans mettre sa vie en danger. L'un de ces jalons c'est d'être habitué à des efforts longs, en autonomie, sans balisage et en binôme.
 
-Ayant un peu de mal à motivé mon binôme à prendre dossard, j'ai trouvé cette alternative intéressante de réaliser le parcours du 82km de la transjutrail en OFF. Ca implique une plus grande préparation niveau ravitos, niveau gestion de l'eau et météo mais c'est de l'expérience importante à prendre. Et puis ca va permettre de voir si mon binôme à bien envie d'aller aussi loin que ca dans la préparation de cette aventure.
+Ayant un peu de mal a motivé mon binôme à prendre dossard, j'ai trouvé cette alternative intéressante de réaliser le parcours du 82km de la transjutrail en OFF. Ca implique une plus grande préparation niveau ravitos, niveau gestion de l'eau et météo mais c'est de l'expérience importante à prendre. Et puis ca va permettre de voir si mon binôme à bien envie d'aller aussi loin que ca dans la préparation de cette aventure.
 
-Le parcours à été légèrement modifié pour que la boucle parte et arrive à La cure plutôt qu'aux Rousses.
+Le parcours a été légèrement modifié pour que la boucle parte et arrive à La cure plutôt qu'aux Rousses.
 
 # La préparation
 
-C'est une double préparation, j'ai d'une part fait de mon mieux pour avoir de la régularité cette été avec ma hanche douloureuse et les aléas estivaux et d'autre part j'ai __coaché__ mon binome pour l'amener dans les meilleures conditions possibles.
+C'est une double préparation, j'ai d'une part fait de mon mieux pour avoir de la régularité cette été avec ma hanche douloureuse et les aléas estivaux et d'autre part j'ai __coaché__ mon binôme pour l'amener dans les meilleures conditions possibles.
 
 ## Ma préparation
 
 La préparation a vraiment commencé au retour de mes vacances de Juin. 4 mois de préparation, marqué au début par de grosses douleurs à la hanche. Douleurs m'entrainant à l'abandon sur une course et véritable frein à la performances sur une autre. 
 
-Les douleurs à la hanche sont bien présentes, j'essaye de faire avec mais finalement la douleur est trop intense et j'abandonne lors de la company cup. Je choisis de faire une semaine de repos avant le tour du lac pour voir si ca passe. Ca ne passe pas je choisis de repartir de 0 et de faire une montée en charge progressive.
+Les douleurs à la hanche sont bien présentes, j'essaye de faire avec mais finalement la douleur est trop intense et j'abandonne lors de la Company Cup. Je choisis de faire une semaine de repos avant le tour du lac pour voir si ca passe. Ca ne passe pas je choisis de repartir de 0 et de faire une montée en charge progressive.
 
 La remontée en charge est faite progressivement et ej fais bien attention a ne pas sauter d'étape et à insister sur le renforcement musculaire. En parralèle je continue de faire beaucoup de vélo et de marche (comprendre avec pousette) ou de randonnée (comprendre avec l'enfant dans le dos). Petit à petit je réintégre des intervalles dans les séances de course à pied. D'abord du classique 30/30 puis on augmente les temps.
 
